@@ -1,0 +1,55 @@
+.intro, .bodyText, .Container.CardContainerRow {
+    background-color: #ffffff00 !important;
+}
+.Container.CardContainerRow {
+    background-color: #ffffff00;
+}
+.intro {
+    font-size: 2em;
+    font-family: Optimist,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 300;
+    line-height: 1.5em;
+    text-align: center;
+}
+.bodyText {
+    font-size: 1.3em;
+    font-family: Optimist,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    line-height: 1.4em;
+    text-align: center;
+}
+.heroImage img {
+    width: 100%;
+    position: relative;
+    top: -30vh;
+}
+.heroImage {
+    position: absolute;
+    z-index: 10;
+}
+.title {
+    position: absolute;
+    z-index: 100;
+    top: -20vh;
+    background-color: #ffffff00;
+    color: #fff;
+    font-size: 4em;
+    text-transform: uppercase;
+    font-weight: 900;
+    text-shadow: 0 0 10px #333;
+}
+.subtitle {
+    position: absolute;
+    z-index: 100;
+    top: -23vh;
+    background-color: #ffffff00;
+    color: #fff;
+    font-size: 3em;
+    text-transform: uppercase;
+    font-weight: 400;
+    text-shadow: 0 0 10px #333;
+}.Grid {
+    max-width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
+}
