@@ -1,3 +1,6 @@
+@charset "UTF-8";
+/* CSS Document */
+
 .Container, .Pie, .Bar, .Label, {
       background-color: #ffffff00 !important;
 }
