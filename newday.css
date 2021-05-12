@@ -4,3 +4,7 @@
 .Container, .Pie, .Bar, .Label, .label-container {
       background-color: #ffffff00 !important;
 }
+
+div {
+      border: 1px solid #000;
+}
