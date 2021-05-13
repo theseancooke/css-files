@@ -8,4 +8,38 @@
     color: #fff;
 }
 
+/* "Get Started" Wizard ---------------------- */
+.Wizard .card-body .label-container span {
+box-sizing: border-box;
+color: rgb(16, 16, 16);
+display: block;
+font-family: "GT Walsheim Pro Bold";
+font-size: 40px;
+font-weight: 500;
+height: 48px;
+line-height: 48px;
+margin-block-end: 20px;
+margin-block-start: 30px;
+margin-bottom: 20px;
+margin-inline-end: 0px;
+margin-inline-start: 0px;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 30px;
+max-width: 100%;
+padding-bottom: 0px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 0px;
+position: relative;
+text-align: center;
+text-size-adjust: 100%;
+transition-delay: 0s;
+transition-duration: 0.4s;
+transition-property: all;
+transition-timing-function: ease;
+width: 925px;
+-webkit-font-smoothing: antialiased;
+}
 
+/* "Get Started" Wizard End ---------------------- */
