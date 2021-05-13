@@ -46,6 +46,10 @@
 }
 
 /* "Get Started" Wizard ---------------------- */
+.Wizard .label-container {
+    display: block;
+}
+
 .Wizard .card-body .label-container span {
 box-sizing: border-box;
 color: rgb(16, 16, 16);
@@ -66,7 +70,7 @@ margin-top: 30px;
 max-width: 100%;
     padding: 0 10px;
 position: relative;
-text-align: center;
+text-align: center !important;
 text-size-adjust: 100%;
 transition-delay: 0s;
 transition-duration: 0.4s;
