@@ -52,7 +52,7 @@
     display: block;
 }
 .Wizard .card-body {
-    max-width: 1200px;
+    max-width: 1000px;
     min-width: 900px;
     margin-left: auto;
     margin-right: auto;
@@ -89,8 +89,8 @@
     font-weight: 700;
     text-align: center;
     width: 23%;
-    max-width: 300px;
-    min-width: 200px;
+    max-width: 330px;
+    min-width: 300px;
     margin-bottom: 20px;
     margin-left: auto;
     margin-right: auto !important;
