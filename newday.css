@@ -14,91 +14,27 @@
 @font-face {
     font-family: "GT Walsheim Pro Bold";
     src: url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Bold.eot?#iefix);
-    src: url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Bold.eot?#iefix) format("eot"), 
-        url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Bold.woff2) format("woff2"), 
-        url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Bold.woff) format("woff"), 
-        url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Bold.ttf) format("truetype");
+    src: url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Bold.eot?#iefix) format("eot"), url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Bold.woff2) format("woff2"), url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Bold.woff) format("woff"), url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Bold.ttf) format("truetype");
 }
 
 @font-face {
     font-family: "GT Walsheim Pro Medium";
     src: url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Medium.eot?#iefix);
-    src: url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Medium.eot?#iefix) format("eot"), 
-        url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Medium.woff2) format("woff2"), 
-        url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Medium.woff) format("woff"), 
-        url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Medium.ttf) format("truetype");
+    src: url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Medium.eot?#iefix) format("eot"), url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Medium.woff2) format("woff2"), url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Medium.woff) format("woff"), url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Medium.ttf) format("truetype");
 }
 
 @font-face {
     font-family: "GT Walsheim Pro Regular";
     src: url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Regular.eot?#iefix);
-    src: url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Regular.eot?#iefix) format("eot"), 
-        url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Regular.woff2) format("woff2"), 
-        url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Regular.woff) format("woff"), 
-        url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Regular.ttf) format("truetype");
+    src: url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Regular.eot?#iefix) format("eot"), url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Regular.woff2) format("woff2"), url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Regular.woff) format("woff"), url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Regular.ttf) format("truetype");
 }
 
 @font-face {
     font-family: "GT Walsheim Pro Light";
     src: url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Light.eot?#iefix);
-    src: url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Light.eot?#iefix) format("eot"), 
-        url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Light.woff2) format("woff2"), 
-        url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Light.woff) format("woff"), 
-        url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Light.ttf) format("truetype");
+    src: url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Light.eot?#iefix) format("eot"), url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Light.woff2) format("woff2"), url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Light.woff) format("woff"), url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Light.ttf) format("truetype");
 }
 
-@font-face {
-    font-family: 'FjallaOne-Regular';
-    src: url('../fonts/FjallaOne-Regular.ttf') format('truetype');
-}
-@font-face {
-    font-family: 'Roboto-Black';
-    src: url('../fonts/Roboto-Black.ttf') format('truetype');
-}
-@font-face {
-    font-family: 'Roboto-BlackItalic';
-    src: url('../fonts/Roboto-BlackItalic.ttf') format('truetype');
-}
-@font-face {
-    font-family: 'Roboto-Bold';
-    src: url('../fonts/Roboto-Bold.ttf') format('truetype');
-}
-@font-face {
-    font-family: 'Roboto-BoldItalic';
-    src: url('../fonts/Roboto-BoldItalic.ttf') format('truetype');
-}
-@font-face {
-    font-family: 'Roboto-Italic';
-    src: url('../fonts/Roboto-Italic.ttf') format('truetype');
-}
-@font-face {
-    font-family: 'Roboto-Light';
-    src: url('../fonts/Roboto-Light.ttf') format('truetype');
-}
-@font-face {
-    font-family: 'Roboto-LightItalic';
-    src: url('../fonts/Roboto-LightItalic.ttf') format('truetype');
-}
-@font-face {
-    font-family: 'Roboto-Medium';
-    src: url('../fonts/Roboto-Medium.ttf') format('truetype');
-}
-@font-face {
-    font-family: 'Roboto-MediumItalic';
-    src: url('../fonts/Roboto-MediumItalic.ttf') format('truetype');
-}
-@font-face {
-    font-family: 'Roboto-Regular';
-    src: url('../fonts/Roboto-Regular.ttf') format('truetype');
-}
-@font-face {
-    font-family: 'Roboto-Thin';
-    src: url('../fonts/Roboto-Thin.ttf') format('truetype');
-}
-@font-face {
-    font-family: 'Roboto-ThinItalic';
-    src: url('../fonts/Roboto-ThinItalic.ttf') format('truetype');
-}
 
 .Container, .Pie, .Bar, .Label, .label-container {
       background-color: #ffffff00 !important;
@@ -140,6 +76,85 @@ transition-property: all;
 transition-timing-function: ease;
 width: 925px;
 -webkit-font-smoothing: antialiased;
+}
+
+.custom-control {
+    align-items: flex-start;
+appearance: none;
+background-attachment: scroll;
+background-clip: border-box;
+background-color: rgb(255, 255, 255);
+background-image: none;
+background-origin: padding-box;
+background-position-x: 0%;
+background-position-y: 0%;
+background-size: auto;
+border-bottom-color: rgb(3, 120, 213);
+border-bottom-left-radius: 50px;
+border-bottom-right-radius: 50px;
+border-bottom-style: solid;
+border-bottom-width: 5px;
+border-image-outset: 0;
+border-image-repeat: stretch;
+border-image-slice: 100%;
+border-image-source: none;
+border-image-width: 1;
+border-left-color: rgb(3, 120, 213);
+border-left-style: solid;
+border-left-width: 5px;
+border-right-color: rgb(3, 120, 213);
+border-right-style: solid;
+border-right-width: 5px;
+border-top-color: rgb(3, 120, 213);
+border-top-left-radius: 50px;
+border-top-right-radius: 50px;
+border-top-style: solid;
+border-top-width: 5px;
+box-shadow: none;
+box-sizing: border-box;
+color: rgb(0, 158, 227);
+cursor: pointer;
+display: block;
+font-family: "GT Walsheim Pro Bold";
+font-size: 16px;
+font-stretch: 100%;
+font-style: normal;
+font-variant-caps: normal;
+font-variant-east-asian: normal;
+font-variant-ligatures: normal;
+font-variant-numeric: normal;
+font-weight: 400;
+height: 75px;
+letter-spacing: normal;
+line-height: 21.28px;
+margin-bottom: 4px;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 4px;
+max-height: 75px;
+max-width: none;
+min-height: 55px;
+outline-color: rgb(0, 158, 227);
+outline-style: none;
+outline-width: 0px;
+overflow-wrap: break-word;
+overflow-x: visible;
+overflow-y: visible;
+padding-bottom: 13px;
+padding-left: 13px;
+padding-right: 13px;
+padding-top: 13px;
+position: relative;
+text-align: center;
+text-indent: 0px;
+text-rendering: auto;
+text-shadow: none;
+text-size-adjust: 100%;
+text-transform: none;
+width: 204.25px;
+word-spacing: 0px;
+-webkit-font-smoothing: antialiased;
+-webkit-border-image: none;
 }
 
 /* "Get Started" Wizard End ---------------------- */
