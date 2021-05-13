@@ -147,5 +147,10 @@
 .Wizard .mx-1 {
     width: inherit !important;
 }
+.w-100 {
+    width: inherit !important;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 /* "Get Started" Wizard End ---------------------- */
