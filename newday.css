@@ -76,16 +76,24 @@
     border: 5px solid rgb(3, 120, 213);
     border-radius: 50px;
     color: rgb(0, 158, 227);
-    cursor: pointer;
-    display: block;
     font-family: "GT Walsheim Pro Bold";
     font-size: 16px;
-    font-stretch: 100%;
     font-weight: 400;
     height: 75px;
-    letter-spacing: normal;
-    line-height: 21.28px;
     margin: 4px 0;
+    padding: 13px;
+    text-align: center;
+    width: 204.25px;
+    /*
+        font-stretch: 100%;
+        text-indent: 0px;
+    text-rendering: auto;
+    text-shadow: none;
+    text-size-adjust: 100%;
+    text-transform: none;cursor: pointer;
+     letter-spacing: normal;
+    line-height: 21.28px;
+    display: block;
     max-height: 75px;
     max-width: none;
     min-height: 55px;
@@ -94,15 +102,7 @@
     outline-width: 0px;
     overflow-wrap: break-word;
     overflow-x: visible;
-    overflow-y: visible;
-    padding: 13px;
-    text-align: center;
-    text-indent: 0px;
-    text-rendering: auto;
-    text-shadow: none;
-    text-size-adjust: 100%;
-    text-transform: none;
-    width: 204.25px;
+    overflow-y: visible;*/
 }
 
 .radio-wrapper {
