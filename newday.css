@@ -5,7 +5,7 @@
 
 
 body {
-      font-family: 'Fjalla One', sans-serif;
+      font-family: 'Fjalla One', sans-serif !important;
 }
 
 .Container, .Pie, .Bar, .Label, .label-container {
