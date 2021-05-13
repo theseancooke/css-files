@@ -71,7 +71,7 @@
     -webkit-font-smoothing: antialiased;
 }
 
-.custom-control {
+    /*.custom-control {
     background-color: rgb(255, 255, 255);
     border: 5px solid rgb(3, 120, 213);
     border-radius: 50px;
@@ -84,7 +84,7 @@
     padding: 13px;
     text-align: center;
     width: 204.25px;
-    /*
+
         font-stretch: 100%;
         text-indent: 0px;
     text-rendering: auto;
@@ -105,12 +105,52 @@
     overflow-y: visible;*/
 }
 
-.radio-wrapper {
+/*.radio-wrapper {
     display: flex !important;
     flex-direction: row !important;
     justify-content: center;
     width: 100%;
+}*/
+.radio-wrapper {
+  position: relative;
+  text-align: center;
+  top: 50%;
+  margin-top: -2.5em;
+  @media (max-width: $small) {margin-top: -1.5em;}
 }
+
+.custom-control {
+  display: inline-block;
+  padding: 1em 2em;
+  margin: 0.5em;
+  cursor: pointer;
+  color: $dark;
+  border-radius: 0.25em;
+  background: $light;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.2), inset 0 -3px 0 rgba(0,0,0,0.22);
+  transition: 0.3s;
+  user-select: none;
+  h1 {
+    font-size: 1em;
+    font-family: $font-stack;
+  }
+  &:hover {
+    background: darken($light, 10%);
+    color: darken($dark, 10%);
+    box-shadow: 0 3px 10px rgba(0,0,0,0.2), inset 0 -3px 0 rgba(0,0,0,0.32);
+  }
+  &:active {
+    transform: translateY(2px);
+    box-shadow: 0 3px 10px rgba(0,0,0,0.2), inset 0px -1px 0 rgba(0,0,0,0.22); 
+  }
+  @media (max-width: $small) {
+    padding: 0em 1em 3px;
+    margin: 0.25em;
+  }
+}
+
+
+
 .field-container > div {
     align-items: center;
 }
