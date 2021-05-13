@@ -54,7 +54,7 @@
     box-sizing: border-box;
     color: rgb(16, 16, 16);
     display: block;
-    font-family: "GT Walsheim Pro Bold";
+    font-family: 'Roboto';
     font-size: 40px;
     font-weight: 500;
     height: 48px;
@@ -73,20 +73,24 @@
 
 .custom-control {
     background-color: rgb(255, 255, 255);
-    border: 5px solid rgb(3, 120, 213);
+    border: 5px solid #ddd;
     border-radius: 50px;
-    color: rgb(0, 158, 227);
-    font-family: "Roboto";
-    font-size: 16px;
-    font-weight: 400;
-    height: 75px;
-    margin: 4px 0;
+    color: #182026;
+    font-family: 'Roboto';
     padding: 13px;
+    font-size: 18px;
+    font-weight: 700;
     text-align: center;
-    width: 204.25px;
+    width: 23%;
+    max-width: 300px;
+    min-width: 200px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto !important;
 }
 .custom-control:hover {
     background-color: #d3ebff;
+    border-color: #005696;
 }
 
 .radio-wrapper {
