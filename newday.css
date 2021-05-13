@@ -94,7 +94,6 @@
 }
 .custom-control-label {
     position: relative;
-    vertical-align: -webkit-baseline-middle;
 }
 .radio-wrapper {
     display: flex !important;
@@ -111,7 +110,12 @@
 .custom-control-label:after, .custom-control-label:before {
     opacity: 0;
 }
-
+/*.w-100 .field-label {
+    display: none;
+}*/
+.indicator-container {
+    display: none !important;
+}
 .field-container > div {
     align-items: center;
 }
