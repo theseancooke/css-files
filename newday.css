@@ -49,7 +49,12 @@
 .Wizard .label-container {
     display: block;
 }
-
+.Wizard .card-body {
+    max-width: 1200px;
+    min-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
 .Wizard .card-body .label-container span {
     box-sizing: border-box;
     color: rgb(16, 16, 16);
