@@ -134,6 +134,15 @@
 .Wizard .button-label {
     font-size: 20px !important;
 }
-
+.Wizard .mx-1 {
+    width: inherit;
+}
+.Wizard button {
+    background-color: darkseagreen;
+    padding: 10px;
+    border: none;
+    width: 200px;
+    border-radius: 100px;
+}
 
 /* "Get Started" Wizard End ---------------------- */
