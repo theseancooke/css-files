@@ -1,0 +1,38 @@
+.tempNavbar {
+font-weight: bold;
+font-size: 18px; }
+
+.navButton {
+margin: 10px 0; }
+
+.navButton .button-label {
+font-weight: bold; }
+
+.navButton .btn {
+line-height: 2; }
+
+.navButton .btn-primary:hover {
+border-color: #FFFFFF; }
+
+.headerLogo .image-container {
+padding:20px 0; }
+
+
+.topBar .label-container {
+font-weight: bold; }
+
+
+.navButton {
+ margin-left: 16px; }
+
+
+.tempNavbar a.nav-link.active {
+color: #0378d5 !important; }
+
+
+.tempNavbar a.nav-link.active {
+border-bottom :2px solid #0378d5; }
+
+
+.navShadow {
+box-shadow: 0 0 7px 5px rgb(0 0 0 / 10%) !important; }
