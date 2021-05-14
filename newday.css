@@ -190,14 +190,19 @@ div.output .output-wrapper {
 
 /* "Get Started" Wizard End ---------------------- */
 /* Home Page ------------------------------------- */
-.pill-one-header span, .pill-two-header span {
+.pill-one h3 {
+        color: #FF7E01;
+}
+.pill-two h3 {
+    color: #008B9E;
+}
+.pill-one h3, .pill-two h3 {
     text-align: center !important;
     font-size: 2em;
-    color: #FF7E01;
     font-weight: 600;
     margin-bottom: 0.8rem;
 }
-.pill-one-sub-header span, .pill-two-sub-header span {
+.pill-one p, .pill-two p {
     font-size: 1.9em;
     line-height: 1.3em;
     margin-bottom: 1.1rem;
@@ -228,9 +233,7 @@ div.output .output-wrapper {
 .button-orange .button-label, .button-aqua .button-label {
     font-size: 1.5em !important;
 }
-.pill-two-header span {
-    color: #008B9E;
-}
+
 .button-aqua .btn-primary {
 background-color: #008B9E !important;
     border-color: #008B9E;
