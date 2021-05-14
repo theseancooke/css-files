@@ -190,14 +190,14 @@ div.output .output-wrapper {
 
 /* "Get Started" Wizard End ---------------------- */
 /* Home Page ------------------------------------- */
-.pill-one-header span {
+.pill-one-header span, .pill-two-header span {
     text-align: center !important;
     font-size: 2.6em;
     color: #FF7E01;
     font-weight: 600;
     margin-bottom: 0.8rem;
 }
-.pill-one-sub-header span {
+.pill-one-sub-header span, .pill-two-sub-header span {
     font-size: 1.9em;
     line-height: 1.3em;
     margin-bottom: 1.1rem;
@@ -210,6 +210,27 @@ div.output .output-wrapper {
 .button-orange {
     background-color: #FF7E01 !important;
     border-color: #FF7E01;
+    display: inline-block;
+    border-radius: 40px;
+    border-style: solid;
+    text-align: center;
+    text-decoration: none;
+    font-size: 2em;
+    font-family: Roboto-Bold;
+    transition: 0.2s;
+    width: 250px;
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.button-aqua .btn-primary {
+background-color: #008B9E !important;
+    border-color: #008B9E;
+}
+.button-aqua {
+background-color: #008B9E !important;
+    border-color: #008B9E;
     display: inline-block;
     border-radius: 40px;
     border-style: solid;
