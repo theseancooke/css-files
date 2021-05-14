@@ -62,7 +62,7 @@
     color: rgb(16, 16, 16);
     display: block;
     font-family: 'Roboto';
-    font-size: 40px;
+    font-size: 12px;
     font-weight: 500;
     height: 48px;
     line-height: 48px;
@@ -92,7 +92,7 @@
     color: #182026;
     font-family: 'Roboto';
     padding: 13px;
-    font-size: 12px;
+    font-size: 18px;
     font-weight: 700;
     text-align: center;
     width: 23%;
@@ -171,9 +171,9 @@ div.output .output-wrapper {
 }
 .field-container .output .field-label label {
     color: #182026;
-    font-family: 'Roboto';
-    padding: 13px;
-    font-size: 18px;
-    font-weight: 700;
+     font-family: 'Roboto';
+    font-size: 40px;
+    font-weight: 500;
+    height: 48px;
 }
 /* "Get Started" Wizard End ---------------------- */
