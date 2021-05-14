@@ -106,7 +106,7 @@
     background-color: #d3ebff;
     border-color: #005696;
 }
-.Wizard input[type="radio"]:checked + label {
+.Wizard input[type="radio"]:checked + .custom-control {
     background-color: #d3ebff;
     border-color: #005696;
 }
