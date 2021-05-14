@@ -92,7 +92,7 @@
     color: #182026;
     font-family: 'Roboto';
     padding: 13px;
-    font-size: 18px;
+    font-size: 12px;
     font-weight: 700;
     text-align: center;
     width: 23%;
@@ -161,5 +161,19 @@
 }
 input.form-control.lg {
     width: 600px;
+}
+.output .output-wrapper .field-label {
+    margin-left: auto;
+    margin-right: auto;
+}
+div.output .output-wrapper {
+    background-color: #fff !important;
+}
+.field-container .output .field-label label {
+    color: #182026;
+    font-family: 'Roboto';
+    padding: 13px;
+    font-size: 18px;
+    font-weight: 700;
 }
 /* "Get Started" Wizard End ---------------------- */
