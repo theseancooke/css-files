@@ -102,11 +102,11 @@
     margin-left: auto;
     margin-right: auto !important;
 }
-.custom-control:hover {
+.custom-control label:hover {
     background-color: #d3ebff;
     border-color: #005696;
 }
-.Wizard input[type="radio"]:checked + .label {
+.Wizard input[type="radio"]:checked + label {
     background-color: #d3ebff;
     border-color: #005696;
 }
