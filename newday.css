@@ -176,4 +176,7 @@ div.output .output-wrapper {
     font-weight: 500;
     height: 48px;
 }
+input[type="radio"]:checked + label {
+  background: #000;
+}
 /* "Get Started" Wizard End ---------------------- */
