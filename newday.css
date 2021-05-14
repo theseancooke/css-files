@@ -80,6 +80,11 @@
 .Wizard .field-container > div {
     align-items: center !important;
 }
+.Wizard .card-body .label-container {
+    font-style: oblique;
+    color: coral;
+    text-align: center;
+}
 .custom-control {
     background-color: rgb(255, 255, 255);
     border: 5px solid #ddd;
