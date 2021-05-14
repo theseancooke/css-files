@@ -86,14 +86,15 @@
     text-align: center;
 }
 .custom-control {
-    width: 23%;
-    max-width: 330px;
-    min-width: 300px;
+
     margin-bottom: 20px;
     margin-left: auto;
     margin-right: auto !important;
 }
 .custom-control label {
+    width: 23%;
+    max-width: 330px;
+    min-width: 300px;
     background-color: rgb(255, 255, 255);
     border: 5px solid #ddd;
     border-radius: 50px;
@@ -104,10 +105,10 @@
     font-weight: 700;
     text-align: center;
 }
-.custom-control:hover {
+/*.custom-control:hover {
     background-color: #d3ebff;
     border-color: #005696;
-}
+}*/
 .custom-control label:hover {
     background-color: #d3ebff;
     border-color: #005696;
