@@ -192,14 +192,14 @@ div.output .output-wrapper {
 /* Home Page ------------------------------------- */
 .pill-one-header span {
     text-align: center !important;
-    font-size: 1.6em;
+    font-size: 2.6em;
     color: #FF7E01;
     font-weight: 600;
     margin-bottom: 0.8rem;
 }
 .pill-one-sub-header span {
     font-size: 1.9em;
-    line-height: 2em;
+    line-height: 1.3em;
     margin-bottom: 1.1rem;
     text-align: center !important;
 }
