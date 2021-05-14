@@ -106,6 +106,10 @@
     background-color: #d3ebff;
     border-color: #005696;
 }
+.Wizard input[type="radio"]:checked + label {
+    background-color: #d3ebff;
+    border-color: #005696;
+}
 .custom-control-label {
     position: relative;
 }
@@ -176,7 +180,5 @@ div.output .output-wrapper {
     font-weight: 500;
     height: 48px;
 }
-input[type="radio"]:checked + label {
-  background: #000;
-}
+
 /* "Get Started" Wizard End ---------------------- */
