@@ -203,6 +203,10 @@ div.output .output-wrapper {
     margin-bottom: 1.1rem;
     text-align: center !important;
 }
+.button-orange .btn-primary {
+    background-color: #FF7E01 !important;
+    border-color: #FF7E01;
+}
 .button-orange {
     background-color: #FF7E01 !important;
     border-color: #FF7E01;
