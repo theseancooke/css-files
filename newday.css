@@ -85,6 +85,14 @@
     color: coral;
     text-align: center;
 }
+.custom-control {
+    width: 23%;
+    max-width: 330px;
+    min-width: 300px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto !important;
+}
 .custom-control label {
     background-color: rgb(255, 255, 255);
     border: 5px solid #ddd;
@@ -95,12 +103,6 @@
     font-size: 18px;
     font-weight: 700;
     text-align: center;
-    width: 23%;
-    max-width: 330px;
-    min-width: 300px;
-    margin-bottom: 20px;
-    margin-left: auto;
-    margin-right: auto !important;
 }
 .custom-control label:hover {
     background-color: #d3ebff;
