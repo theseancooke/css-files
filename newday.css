@@ -223,6 +223,9 @@ div.output .output-wrapper {
     margin-right: auto;
     margin-left: auto;
 }
+.button-orange .button-label, .button-aqua .button-label {
+    font-size: 1.5em !important;
+}
 
 .button-aqua .btn-primary {
 background-color: #008B9E !important;
