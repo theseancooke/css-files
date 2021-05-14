@@ -159,5 +159,7 @@
     margin-left: auto;
     margin-right: auto;
 }
-
+input.form-control.lg {
+    width: 600px;
+}
 /* "Get Started" Wizard End ---------------------- */
