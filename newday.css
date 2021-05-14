@@ -108,11 +108,11 @@
 /*.custom-control:hover {
     background-color: #d3ebff;
     border-color: #005696;
-}*/
+}
 .custom-control label:hover {
     background-color: #d3ebff;
     border-color: #005696;
-}
+}*/
 .Wizard input[type="radio"]:checked + label {
     background-color: #d3ebff;
     border-color: #005696;
@@ -184,7 +184,7 @@ div.output .output-wrapper {
     color: #182026;
      font-family: 'Roboto';
     font-size: 40px;
-    font-weight: 500;
+    font-weight: 300;
     height: 48px;
 }
 
