@@ -192,7 +192,7 @@ div.output .output-wrapper {
 /* Home Page ------------------------------------- */
 .pill-one-header span, .pill-two-header span {
     text-align: center !important;
-    font-size: 2.6em;
+    font-size: 2em;
     color: #FF7E01;
     font-weight: 600;
     margin-bottom: 0.8rem;
@@ -202,6 +202,8 @@ div.output .output-wrapper {
     line-height: 1.3em;
     margin-bottom: 1.1rem;
     text-align: center !important;
+        font-family: 'Fjallah One';
+
 }
 .button-orange .btn-primary {
     background-color: #FF7E01 !important;
@@ -216,7 +218,7 @@ div.output .output-wrapper {
     text-align: center;
     text-decoration: none;
     font-size: 2em;
-    font-family: Roboto-Bold;
+    font-family: 'Roboto-Bold';
     transition: 0.2s;
     width: 250px;
     color: white;
@@ -242,7 +244,7 @@ background-color: #008B9E !important;
     text-align: center;
     text-decoration: none;
     font-size: 2em;
-    font-family: Roboto-Bold;
+    font-family: 'Roboto-Bold';
     transition: 0.2s;
     width: 250px;
     color: white;
