@@ -85,7 +85,7 @@
     color: coral;
     text-align: center;
 }
-.custom-control {
+.custom-control label {
     background-color: rgb(255, 255, 255);
     border: 5px solid #ddd;
     border-radius: 50px;
@@ -106,7 +106,7 @@
     background-color: #d3ebff;
     border-color: #005696;
 }
-.Wizard input[type="radio"]:checked + .custom-control {
+.Wizard input[type="radio"]:checked + .label {
     background-color: #d3ebff;
     border-color: #005696;
 }
