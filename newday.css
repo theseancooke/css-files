@@ -189,3 +189,39 @@ div.output .output-wrapper {
 }
 
 /* "Get Started" Wizard End ---------------------- */
+/* Home Page ------------------------------------- */
+.pill-one-header {
+    color: #FF7E01;
+    font-weight: 600;
+    font-size: 1.4rem;
+    margin-bottom: 0.8rem;
+}
+.pill-one-sub-header {
+    font-size: 1.6rem;
+    line-height: 2rem;
+    margin-bottom: 1.1rem;
+}
+.button-orange {
+    background-color: #FF7E01 !important;
+    border-color: #FF7E01;
+    font-family: Roboto-Bold;
+}
+.btn-revamp {
+    display: inline-block;
+    border-radius: 40px;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    padding: 0.65em 2em;
+    text-decoration: none;
+    font-size: 1.1rem;
+    /* font-family: "GT Walsheim Pro Bold"; */
+    font-family: Roboto-Bold;
+    background-color: transparent;
+    transition: 0.2s;
+    width: 250px;
+    color: white;
+}
+
+/* Home Page End ------------------------------------- */
+
