@@ -237,7 +237,9 @@
     color: white;
 }
 
-
-
 /* Home Page End ------------------------------------- */
+/* Editor Specfic Edits ------------------------------ */
+.checkme .custom-control {
+    opacity: 1;
+}
 
