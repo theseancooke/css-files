@@ -210,50 +210,34 @@ div.output .output-wrapper {
         font-family: Fjalla One;
 
 }
-.button-orange .btn-primary {
-    background-color: #FF7E01 !important;
-    border-color: #FF7E01;
-}
 .button-orange {
     background-color: #FF7E01 !important;
     border-color: #FF7E01;
-    display: inline-block;
-    border-radius: 40px;
-    border-style: solid;
-    text-align: center;
-    text-decoration: none;
-    font-size: 2em;
-    font-family: Roboto;
-    transition: 0.2s;
-    width: 250px;
-    color: white;
-    margin-right: auto;
-    margin-left: auto;
-}
-.button-orange .button-label, .button-aqua .button-label {
-    font-size: 1.5em !important;
-}
-
-.button-aqua .btn-primary {
-background-color: #008B9E !important;
-    border-color: #008B9E;
 }
 .button-aqua {
-background-color: #008B9E !important;
+    background-color: #008B9E !important;
     border-color: #008B9E;
+}
+.button-orange, .button-aqua {
     display: inline-block;
     border-radius: 40px;
     border-style: solid;
-    text-align: center;
     text-decoration: none;
-    font-size: 2em;
-    font-family: Roboto;
     transition: 0.2s;
     width: 250px;
-    color: white;
     margin-right: auto;
     margin-left: auto;
 }
+.button-orange-label span, .button-aqua-label span {
+    text-align: center !important;
+    vertical-align: middle !important;
+    margin-top: 2px;
+    font-size: 1.7em;
+    font-family: Roboto;
+    color: white;
+}
+
+
 
 /* Home Page End ------------------------------------- */
 
