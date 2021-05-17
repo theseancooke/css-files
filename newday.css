@@ -239,7 +239,7 @@
 
 /* Home Page End ------------------------------------- */
 /* Editor Specfic Edits ------------------------------ */
-.checkme .custom-control {
+.checkme .custom-checkbox>input {
     opacity: 1;
 }
 
