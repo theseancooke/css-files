@@ -85,13 +85,13 @@
     color: coral;
     text-align: center;
 }
-.custom-control {
+.getStarted .custom-control {
 
     margin-bottom: 20px;
     margin-left: auto;
     margin-right: auto !important;
 }
-.custom-control label {
+.getStarted .custom-control label {
     width: 23%;
     max-width: 330px;
     min-width: 300px;
@@ -117,31 +117,31 @@
     background-color: #d3ebff;
     border-color: #005696;
 }
-.custom-control-label {
+.getStarted .custom-control-label {
     position: relative;
 }
-.radio-wrapper {
+.getStarted .radio-wrapper {
     display: flex !important;
     flex-direction: row !important;
     justify-content: center;
     flex-wrap: wrap;
     width: 100%;
 }
-.custom-control-input {
+.getStarted .custom-control-input {
     display: block;
     width: 100%;
     height: 100%;
 }
-.custom-control-label:after, .custom-control-label:before {
+.getStarted .custom-control-label:after, .custom-control-label:before {
     opacity: 0;
 }
 /*.w-100 .field-label {
     display: none;
 }*/
-.indicator-container {
+.getStarted .indicator-container {
     display: none !important;
 }
-.field-container > div {
+.getStarted .field-container > div {
     align-items: center;
 }
 .Wizard button {
@@ -165,22 +165,22 @@
 .Wizard .mx-1 {
     width: inherit !important;
 }
-.w-100 {
+.getStarted .w-100 {
     width: inherit !important;
     margin-left: auto;
     margin-right: auto;
 }
-input.form-control.lg {
+.getStarted input.form-control.lg {
     width: 600px;
 }
-.output .output-wrapper .field-label {
+.getStarted. .output .output-wrapper .field-label {
     margin-left: auto;
     margin-right: auto;
 }
-div.output .output-wrapper {
+.getStarted div.output .output-wrapper {
     background-color: #fff !important;
 }
-.field-container .output .field-label label {
+.getStarted .field-container .output .field-label label {
     color: #182026;
      font-family: Roboto;
     font-size: 40px;
