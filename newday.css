@@ -228,7 +228,7 @@ div.output .output-wrapper {
     margin-right: auto;
     margin-left: auto;
 }
-.button-orange-label span, .button-aqua-label span {
+.button-label span {
     text-align: center !important;
     vertical-align: middle !important;
     margin-top: 2px;
