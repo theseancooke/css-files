@@ -242,4 +242,19 @@
 .checkme .custom-checkbox>input {
     opacity: 1;
 }
+/* Editor Specfic Edits End -------------------------- */
+/* Resources and Posts ------------------------------- */
+.postCard .postTitle {
+    font-family: Fjalla One, sans-serif;
+    color: #fff;
+    font-size: 1.5em;
+    margin: 5px 10px 0 10px;
+    position: relative;
+    top: 60px;
+    z-index: 100;
+    text-shadow: 0 0 5px #000;
+}
+/* Resources and Posts End --------------------------- */
+
+
 
