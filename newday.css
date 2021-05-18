@@ -275,6 +275,28 @@
     justify-content: center;
     border-radius: 10px;
 }
+.postImageHero {
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+}
+h1.postTitle {
+    color: #fff;
+    text-shadow: 0 0 13px #000;
+    text-align: center;
+    position: relative;
+    top: 200px;
+    font-family: Fjalla One, sans-serif;
+    font-size: 5em;
+}
+.postText {
+    font-size: 1.3em;
+    line-height: 1.7em;
+}
+
+.postText p {
+    margin-bottom: 1.5em;
+}
 /* Resources and Posts End --------------------------- */
 
 
