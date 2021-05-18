@@ -258,7 +258,7 @@
     background-color: #005696;
 }
 .postCard .postImage img:hover {
-    mix-blend-mode: none;
+    mix-blend-mode: inherit;
         opacity: 100%;
 }
 .postCard .postImage img {
