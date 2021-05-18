@@ -260,6 +260,14 @@
 .postCard .postImage img:hover {
     mix-blend-mode: screen;
 }
+.postImage img {
+    max-width: 700px;
+}
+.postImage {
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+}
 /* Resources and Posts End --------------------------- */
 
 
