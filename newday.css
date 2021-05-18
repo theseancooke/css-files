@@ -264,6 +264,8 @@
 .postCard .postImage img {
     mix-blend-mode: luminosity;
     opacity: 50%;
+    min-width: 600px !important;
+    max-width: 700px !important;
 }
 .postImage {
     display: flex;
