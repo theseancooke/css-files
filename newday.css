@@ -37,6 +37,9 @@
 }
 .Grid.Layout {
     background-color: #fff !important;
+    max-width: 1680px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .Container, .Pie, .Bar, .Label, .label-container {
