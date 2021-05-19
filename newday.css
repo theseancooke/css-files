@@ -298,7 +298,7 @@ h1.postTitle {
     margin-bottom: 1.5em;
 }
 /* Resources and Posts End --------------------------- */
-/* Template Components ------------------------------- */
+/* Template Components Migratied to Theme ------------
 .ctaText {
     position: relative;
     top: -220px;
@@ -334,6 +334,6 @@ h1.postTitle {
     position: relative;
     top: -300px;
 }
-/* Template Components End --------------------------- */
+Template Components End ------------------------------ */
 
 
