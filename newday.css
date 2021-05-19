@@ -298,6 +298,18 @@ h1.postTitle {
     margin-bottom: 1.5em;
 }
 /* Resources and Posts End --------------------------- */
-
+/* Template Components ------------------------------- */
+.ctaText {
+    position: relative;
+    top: -220px;
+    font-size: 3em;
+    line-height: 1.1em;
+    font-weight: 200;
+}
+.ctaButton {
+    position: relative;
+    top: -220px;
+}
+/* Template Components End --------------------------- */
 
 
