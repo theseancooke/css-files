@@ -314,6 +314,22 @@ h1.postTitle {
 .ctaImage {
     border-radius: 50px;
 }
+.headerTitle {
+    position: relative;
+    top: -300px;
+    font-size: 4em;
+    line-height: 1.1em;
+    font-weight: 800;
+    text-shadow: 0 0 7px #333;
+}
+.headerSubTitle {
+    position: relative;
+    top: -300px;
+    font-size: 2em;
+    line-height: 1.1em;
+    font-weight: 400;
+    text-shadow: 0 0 7px #333;
+}
 /* Template Components End --------------------------- */
 
 
