@@ -305,10 +305,13 @@ h1.postTitle {
     font-size: 3em;
     line-height: 1.1em;
     font-weight: 200;
+    text-shadow: 0 0 7px #333;
 }
 .ctaButton {
     position: relative;
     top: -220px;
+    box-shadow: 0 0 7px #333;
+
 }
 /* Template Components End --------------------------- */
 
