@@ -310,8 +310,9 @@ h1.postTitle {
 .ctaButton {
     position: relative;
     top: -220px;
-    box-shadow: 0 0 7px #333;
-
+}
+.ctaImage {
+    border-radius: 50px;
 }
 /* Template Components End --------------------------- */
 
