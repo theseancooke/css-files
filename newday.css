@@ -330,6 +330,10 @@ h1.postTitle {
     font-weight: 400;
     text-shadow: 0 0 7px #333;
 }
+.headerButton {
+    position: relative;
+    top: -300px;
+}
 /* Template Components End --------------------------- */
 
 
