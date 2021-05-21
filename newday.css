@@ -335,5 +335,9 @@ h1.postTitle {
     top: -300px;
 }
 Template Components End ------------------------------ */
-
+.heroImage {
+    height: 1200px;
+    background-size: cover;
+    background-position: center;
+}
 
