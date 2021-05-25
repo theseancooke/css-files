@@ -1,25 +1,35 @@
+.Grid.Layout {
+    background-color: #fff !important;
+    max-width: 1680px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Container, .Pie, .Bar, .Label, .label-container {
+    background-color: #ffffff00 !important;
+}
 .ctaText {
-  position: relative;
-top: -220px;
-font-size: 3em;
-line-height: 1.1em;
-font-weight: 200;
-text-shadow: 0 0 7px #333;
+    position: relative;
+    top: -220px;
+    font-size: 3em;
+    line-height: 1.1em;
+    font-weight: 200;
+    text-shadow: 0 0 7px #333;
 }
 .ctaButton {
-position: relative;
-top: -220px;
+    position: relative;
+    top: -220px;
 }
 .ctaImage {
-border-radius: 50px;
+    border-radius: 50px;
 }
 .headerTitle {
-position: relative;
-top: -300px;
-font-size: 4em;
-line-height: 1.1em;
-font-weight: 800;
-text-shadow: 0 0 7px #333;
+    position: relative;
+    top: -300px;
+    font-size: 4em;
+    line-height: 1.1em;
+    font-weight: 800;
+    text-shadow: 0 0 7px #333;
 }
 .headerSubTitle {
 position: relative;
