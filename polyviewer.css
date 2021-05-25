@@ -1,136 +1,35 @@
 .ctaText {
-  position
-relative
-Click to Edit
-
-
-.ctaText {
-top
--220px
-Click to Edit
-
-
-.ctaText {
-font-size
-3em
-Click to Edit
-
-
-.ctaText {
-line-height
-1.1em
-Click to Edit
-
-
-.ctaText {
-font-weight
-200
-Click to Edit
-
-
-.ctaText {
-text-shadow
-0 0 7px #333
-Click to Edit
-
-
+  position: relative;
+top: -220px;
+font-size: 3em;
+line-height: 1.1em;
+font-weight: 200;
+text-shadow: 0 0 7px #333;
+}
 .ctaButton {
-position
-relative
-Click to Edit
-
-
-.ctaButton {
-top
--220px
-Click to Edit
-
-
+position: relative;
+top: -220px;
+}
 .ctaImage {
-border-radius
-50px
-Click to Edit
-
-
+border-radius: 50px;
+}
 .headerTitle {
-position
-relative
-Click to Edit
-
-
-.headerTitle {
-top
--300px
-Click to Edit
-
-
-.headerTitle {
-font-size
-4em
-Click to Edit
-
-
-.headerTitle
-line-height
-1.1em
-Click to Edit
-
-
-.headerTitle
-font-weight
-800
-Click to Edit
-
-
-.headerTitle
-text-shadow
- 0 0 7px #333
-Click to Edit
-
-
-.headerSubTitle
-position
-relative
-Click to Edit
-
-
-.headerSubTitle
-top
--300px
-Click to Edit
-
-
-.headerSubTitle
-font-size
-2em
-Click to Edit
-
-
-.headerSubTitle
-line-height
-1.1em
-Click to Edit
-
-
-.headerSubTitle
-font-weight
-400
-Click to Edit
-
-
-.headerSubTitle
-text-shadow
- 0 0 7px #333
-Click to Edit
-
-
-.headerButton
-position
-relative
-Click to Edit
-
-
-.headerButton
-top
--300px
-Click to Edit
+position: relative;
+top: -300px;
+font-size: 4em;
+line-height: 1.1em;
+font-weight: 800;
+text-shadow: 0 0 7px #333;
+}
+.headerSubTitle {
+position: relative;
+top: -300px;
+font-size: 2em;
+line-height: 1.1em;
+font-weight: 400;
+text-shadow: 0 0 7px #333;
+}
+.headerButton {
+position: relative;
+top: -300px;
+}
