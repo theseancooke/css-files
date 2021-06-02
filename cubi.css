@@ -37,6 +37,32 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
 }
 
 /* Header Row -------------------------------- */
+.HeroRow .breadcrumbs {
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--main);
+}
+.greyText {
+    color: #767676;
+}
+.HeroRow h3 {
+    color: #767675;
+    font-size: 24px;
+    font-weight: 800;
+}
+.HeroRow h1 {
+    font-size: 64px;
+    font-weight: 800;
+    line-height: 74px;
+}
+.HeroRow ul {
+    list-style: disc;
+    margin-left: 20px;
+    color: #767676;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+}
 
 /* Callout Row -------------------------------- */
 .CalloutRow {
