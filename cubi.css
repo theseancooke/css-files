@@ -76,6 +76,15 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     opacity: 10%;
     border-radius: 12px;
 }
+.calloutRow h2 {
+    font-size: 36px;
+    font-weight: 800;
+}
+.calloutRow p {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
 /* Feature Row -------------------------------- */
 .featureRow .icon {
     background-color: coral;
