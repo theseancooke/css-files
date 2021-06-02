@@ -72,8 +72,7 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     color: #fff;
 }
 .blueBox .outer-container {
-    background-color: #D2DCE6 !important;
-    opacity: 10%;
+    background-color: #0d5fa3 !important;
     border-radius: 12px;
 }
 .calloutRow h2 {
