@@ -16,3 +16,24 @@
 h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     font-family: 'Open Sans', sans-serif;
 }
+
+/* Header Row -------------------------------- */
+
+/* Callout Row -------------------------------- */
+.CalloutRow {
+    background-color: var(--main);
+    border-radius: 12px;
+    color: #fff;
+}
+.blueBox .outer-container {
+    background-color: #D2DCE6 !important;
+    opacity: 10%;
+    border-radius: 12px;
+}
+/* fpo -------------------------------- */
+
+/* fpo -------------------------------- */
+
+/* fpo -------------------------------- */
+
+/* Header Row -------------------------------- */
