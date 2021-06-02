@@ -110,6 +110,28 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
 .greyRow {
     background-color: #f2f2f2 !important;
 }
+.testimonial {
+    border-radius: 16px;
+}
+.testimonial p {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28px;
+}
+.testimonial .bioName h3 {
+    font-size: 24px;
+    line-height: 24px;
+    font-weight: 800;
+}
+.testimonial .bio p {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+    color: #767676;
+}
+.bioPic {
+    border-radius: 15px;
+}
 
 /* Footer Row -------------------------------- */
 .footerRow {
