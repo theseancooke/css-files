@@ -297,6 +297,36 @@ h1.postTitle {
 .postText p {
     margin-bottom: 1.5em;
 }
+.newsTabs li.nav-item {
+    font-size: 16px;
+    font-weight: 600;
+}
+.newsTabs a.active.nav-link {
+    font-size: 20px;
+}
+.newsTabs li.nav-item a {
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+}
+.newsTabs li.nav-item a {
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    border-right: 1px solid;
+    border-radius: 0;
+}
+.newsTabs li.nav-item:last-child a {
+    border-right: none;
+}
+.newsTabs li.nav-item a:hover {
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    border-right: 1px solid;
+    border-radius: 0;
+}
+
 /* Resources and Posts End --------------------------- */
 /* Template Components Migratied to Theme ------------
 .ctaText {
