@@ -136,3 +136,69 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
 .footerRow {
     background-color: var(--main) !important;
 }
+
+@media only screen and (max-width: 1430px) {
+ .Grid.Layout {
+    max-width: 1100px;
+}
+/* Buttons ----------------------------------- */
+.blueBtn .button-label {
+    font-size: 16px !important;
+}
+.whiteBtn .button-label {
+    font-size: 16px !important;
+}
+
+/* Header Row -------------------------------- */
+.HeroRow .breadcrumbs {
+    font-size: 16px;
+}
+.HeroRow h3 {
+    font-size: 24px;
+}
+.HeroRow h1 {
+    font-size: 64px;
+    line-height: 74px;
+}
+.HeroRow ul {
+    margin-left: 20px;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+/* Callout Row -------------------------------- */
+    
+.calloutRow h2 {
+    font-size: 36px;
+}
+.calloutRow p {
+    font-size: 16px;
+    line-height: 24px;
+}
+/* Feature Row -------------------------------- */
+
+.featureRow h2 {
+    font-size: 20px;
+}
+.featureRow p {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+/* Grey row -------------------------------- */
+.testimonial p {
+    font-size: 20px;
+    line-height: 28px;
+}
+.testimonial .bioName h3 {
+    font-size: 24px;
+    line-height: 24px;
+}
+.testimonial .bio p {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+/* Footer Row -------------------------------- */
+   
+}
