@@ -136,6 +136,7 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
 .footerRow {
     background-color: var(--main) !important;
 }
+/* @ MEDIA ---------------------------------------------------------------------- */
 
 @media only screen and (max-width: 1430px) {
  .Grid.Layout {
@@ -143,15 +144,16 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
 }
 /* Buttons ----------------------------------- */
 .blueBtn .button-label {
-    font-size: 16px !important;
+    font-size: 12px !important;
 }
 .whiteBtn .button-label {
-    font-size: 16px !important;
+    font-size: 12px !important;
 }
 
 /* Header Row -------------------------------- */
 .HeroRow .breadcrumbs {
-    font-size: 16px;
+    font-size: 12px;
+    line-height: 16px;
 }
 .HeroRow h3 {
     font-size: 24px;
@@ -162,8 +164,8 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
 }
 .HeroRow ul {
     margin-left: 20px;
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 12px;
+    line-height: 16px;
 }
 
 /* Callout Row -------------------------------- */
@@ -172,8 +174,8 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     font-size: 36px;
 }
 .calloutRow p {
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 12px;
+    line-height: 16px;
 }
 /* Feature Row -------------------------------- */
 
@@ -181,8 +183,8 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     font-size: 20px;
 }
 .featureRow p {
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 12px;
+    line-height: 16px;
 }
 
 /* Grey row -------------------------------- */
@@ -195,8 +197,8 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     line-height: 24px;
 }
 .testimonial .bio p {
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 12px;
+    line-height: 16px;
 }
 
 /* Footer Row -------------------------------- */
