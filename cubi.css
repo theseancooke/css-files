@@ -159,8 +159,8 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     font-size: 24px;
 }
 .HeroRow h1 {
-    font-size: 64px;
-    line-height: 74px;
+    font-size: 40px;
+    line-height: 45px;
 }
 .HeroRow ul {
     margin-left: 20px;
@@ -171,34 +171,34 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
 /* Callout Row -------------------------------- */
     
 .calloutRow h2 {
-    font-size: 36px;
+    font-size: 28px;
 }
 .calloutRow p {
-    font-size: 12px;
-    line-height: 16px;
+    font-size: 14px;
+    line-height: 20px;
 }
 /* Feature Row -------------------------------- */
 
 .featureRow h2 {
-    font-size: 20px;
+    font-size: 16px;
 }
 .featureRow p {
-    font-size: 12px;
-    line-height: 16px;
+    font-size: 14px;
+    line-height: 20px;
 }
 
 /* Grey row -------------------------------- */
 .testimonial p {
-    font-size: 20px;
-    line-height: 28px;
-}
-.testimonial .bioName h3 {
-    font-size: 24px;
+    font-size: 16px;
     line-height: 24px;
 }
+.testimonial .bioName h3 {
+    font-size: 20px;
+    line-height: 20px;
+}
 .testimonial .bio p {
-    font-size: 12px;
-    line-height: 16px;
+    font-size: 14px;
+    line-height: 20px;
 }
 
 /* Footer Row -------------------------------- */
