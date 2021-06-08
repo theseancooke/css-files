@@ -373,6 +373,6 @@ Template Components End ------------------------------ */
 .floating {
     position: relative;
     top: -680px;
-    z-index: -10;
+    z-index: 1;
 }
 
