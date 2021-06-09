@@ -363,8 +363,7 @@ h1.postTitle {
 .headerButton {
     position: relative;
     top: -300px;
-}
-Template Components End ------------------------------ */
+}*/
 .heroImage {
     height: 1200px;
     background-size: cover;
@@ -380,4 +379,8 @@ Template Components End ------------------------------ */
     background-size: cover;
     background-position: center;
 }
+.shadowBox {
+    text-shadow: 0 0 5px #000;
+}
+/*Template Components End ------------------------------ */
 
