@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
 }
 .blueBtn .button-label {
     color: #fff;
-    font-size: 16px;
+    font-size: 16px !important;
     font-weight: 700;
 }
 .whiteBtn>button {
@@ -40,7 +40,7 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
 }
 .whiteBtn .button-label {
     color: var(--main);
-    font-size: 16px;
+    font-size: 16px !important;
     font-weight: 700;
 }
 .whiteBtn>button:hover .button-label {
@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
 
 /* Header Row -------------------------------- */
 .HeroRow .breadcrumbs {
-    font-size: 16px;
+    font-size: 16px !important;
     font-weight: 700;
     color: var(--main);
 }
