@@ -139,6 +139,10 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     background-color: var(--main) !important;
 }
 
+.accountInfo {
+    font-weight: bold;
+}
+
 .footerLinks > div > div > p {
     color: #ffffff;
     font-weight: bold;
