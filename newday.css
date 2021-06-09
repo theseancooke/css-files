@@ -375,4 +375,9 @@ Template Components End ------------------------------ */
     top: -680px;
     z-index: 1;
 }
+.heroBannerImage {
+    height: 850px;
+    background-size: cover;
+    background-position: center;
+}
 
