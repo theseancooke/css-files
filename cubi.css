@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
 }
 .blueBtn .button-label {
     color: #fff;
-    font-size: 16px !important;
+    font-size: 16px;
     font-weight: 700;
 }
 .whiteBtn>button {
@@ -37,11 +37,13 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
 }
 .whiteBtn>button:hover {
     background-color: var(--lightGray);
+    text-decoration: none;
 }
 .whiteBtn .button-label {
     color: var(--main);
-    font-size: 16px !important;
+    font-size: 16px;
     font-weight: 700;
+    text-decoration: none;
 }
 .whiteBtn>button:hover .button-label {
     color: var(--mainHover);
