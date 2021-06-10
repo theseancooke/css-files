@@ -405,8 +405,8 @@ h1.postTitle {
 }
 
 .subDivider {
-    height: 2px;
-    background-color: #e0e0e0;
+    height: 1px !important;
+    border-bottom: 2px solid #e0e0e0 !important;
 }
 
 .thePar {
