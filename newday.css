@@ -389,7 +389,7 @@ h1.postTitle {
 
 /*TEMPLATE 1 STYLES ------------------------------ */
 
-/*TITLE*/
+/*CONTENT*/
 .titleContainer {
     border-bottom: 1px solid #e0e0e0 !important;
 }
@@ -398,11 +398,22 @@ h1.postTitle {
     font-size: 2.5rem;
 }
 
+.subTitle {
+    color: #005696;
+    font-size: 1.11111111111rem;
+    line-height: 1.66667rem;
+
+.bodyCopy {
+    font-size: 1rem;
+    line-height: 1.44444rem;
+    color: #101010;
+}
+
 /*SHARE BUTTON*/
 .shareThis .button-label {
     text-transform: uppercase;
     font-size: 0.77778rem;
-    color: #000000;
+    color: #101010;
 }
 
 .shareThis .btn-link:hover {
