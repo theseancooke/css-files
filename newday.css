@@ -405,19 +405,11 @@ h1.postTitle {
     transform: none !important;
 }
 
-.subTitle:after {
-    content: "";
-    height: 2px;
-    width: 72px;
-    background: #d3d3d3;
-    display: block;
-    margin: 0.66667rem 0;
-}
-
 .bodyCopy {
     font-size: 1rem;
     line-height: 1.44444rem;
     color: #101010;
+    transform: none !important;
 }
 
 /*SHARE BUTTON*/
