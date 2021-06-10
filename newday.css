@@ -404,6 +404,11 @@ h1.postTitle {
     line-height: 1.66667rem;
 }
 
+.subDivider {
+    height: 2px;
+    background-color: #e0e0e0;
+}
+
 .thePar {
     font-size: 1rem;
     line-height: 1.44444rem;
