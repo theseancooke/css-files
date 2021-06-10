@@ -388,10 +388,15 @@ h1.postTitle {
 /*Template Components End ------------------------------ */
 
 /*Template 1 Styles ------------------------------ */
+
 .titleContainer {
     border-bottom: 1px solid #e0e0e0 !important;
 }
 
 .title {
     font-size: 2.5rem;
+}
+
+.shareThis i {
+    color: #e0e0e0;
 }
