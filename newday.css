@@ -406,7 +406,8 @@ h1.postTitle {
 }
 
 .shareThis .btn-link:hover {
-    text-decoration: none;
+    text-decoration: none !important;
+    opacity: 0.8;
 }
 
 .shareThis i {
