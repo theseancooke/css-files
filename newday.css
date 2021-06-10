@@ -402,6 +402,16 @@ h1.postTitle {
     color: #005696;
     font-size: 1.11111111111rem;
     line-height: 1.66667rem;
+}
+
+.subTitle:after {
+    content: "";
+    height: 2px;
+    width: 72px;
+    background: #d3d3d3;
+    display: block;
+    margin: 0.66667rem 0;
+}
 
 .bodyCopy {
     font-size: 1rem;
