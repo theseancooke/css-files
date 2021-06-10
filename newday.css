@@ -383,3 +383,12 @@ h1.postTitle {
     text-shadow: 0 0 5px #000;
 }
 /*Template Components End ------------------------------ */
+
+/*Template 1 Styles ------------------------------ */
+.titleContainer {
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.title {
+    font-size: 1.11111rem;
+}
