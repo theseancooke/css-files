@@ -416,7 +416,7 @@ h1.postTitle {
 }
 
 .testimonialContainer {
-    background-color: #0378d5;
+    background-color: #0378d5 !important;
 }
 
 /*SHARE BUTTON*/
