@@ -397,6 +397,10 @@ h1.postTitle {
     font-size: 2.5rem;
 }
 
+.shareThis {
+    text-transform: uppercase;
+}
+
 .shareThis i {
     color: #e0e0e0;
 }
