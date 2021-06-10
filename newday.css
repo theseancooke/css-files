@@ -419,6 +419,10 @@ h1.postTitle {
     background-color: #0378d5 !important;
 }
 
+.expertContainer {
+    background-color: #f4f4f4 !important;
+}
+
 /*SHARE BUTTON*/
 .shareThis .button-label {
     text-transform: uppercase;
