@@ -387,8 +387,9 @@ h1.postTitle {
 }
 /*Template Components End ------------------------------ */
 
-/*Template 1 Styles ------------------------------ */
+/*TEMPLATE 1 STYLES ------------------------------ */
 
+/*TITLE*/
 .titleContainer {
     border-bottom: 1px solid #e0e0e0 !important;
 }
@@ -397,8 +398,15 @@ h1.postTitle {
     font-size: 2.5rem;
 }
 
+/*SHARE BUTTON*/
 .shareThis .button-label {
     text-transform: uppercase;
+    font-size: 0.77778rem;
+    color: #000000;
+}
+
+.shareThis .btn-link:hover {
+    text-decoration: none;
 }
 
 .shareThis i {
