@@ -415,6 +415,10 @@ h1.postTitle {
     color: #101010;
 }
 
+.testimonialContainer {
+    background-color: #0378d5;
+}
+
 /*SHARE BUTTON*/
 .shareThis .button-label {
     text-transform: uppercase;
