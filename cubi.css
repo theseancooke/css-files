@@ -248,23 +248,3 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
 
 /* Footer Row -------------------------------- */
 }
-
-
-.mainContainer {
-  height: 100vh;
-  width: 100vw;
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-template-rows: 30px 1fr 30px;
-}
-
-.bodyContainer {
-  display: grid;
-  grid-template-columns: 1fr 3fr;
-  overflow: hidden;
-}
-
-.contentContainer {
-  overflow-y: scroll;
-  padding: 20px;
-}
