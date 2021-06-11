@@ -273,7 +273,7 @@ html { font-size: 18px; !important }
 /* Editor Specfic Edits End -------------------------- */
 /* Resources and Posts ------------------------------- */
 .postDetails {
-    bottom: 125px;
+    bottom: 115px;
     z-index: 100;
 }
 .postCategory {
@@ -287,10 +287,6 @@ html { font-size: 18px; !important }
     color: #fff;
     font-size: 1rem;
     position: relative;
-}
-.postCard .postIcon {
-    bottom: 90px;
-    z-index: 100;
 }
 .postCard .postImage {
     background-color: #0378d5;
