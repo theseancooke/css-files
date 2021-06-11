@@ -196,6 +196,21 @@ html { font-size: 18px; !important }
 
 /* "Get Started" Wizard End ---------------------- */
 /* Home Page ------------------------------------- */
+.frImage {
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+}
+.benefitButton {
+    width: 100%;
+}
+.benefitButton .button-label span {
+    font-size: 1em;
+    margin: auto;
+}
+.button-orange, .button-aqua, .benefitButton {
+    cursor: pointer;
+}
 .pill-one h3 {
         color: #FF7E01;
 }
@@ -247,6 +262,13 @@ html { font-size: 18px; !important }
 /* Editor Specfic Edits ------------------------------ */
 .checkme .custom-checkbox>input {
     opacity: 1;
+}
+.chromeit {
+    border-radius: 6px !important;
+    margin-top: 20px;
+    margin-bottom: -20px;
+    box-shadow: rgb(0 0 0 / 30%) 0px 19px 38px, rgb(0 0 0 / 22%) 0px 15px 12px !important;
+    z-index: 200;
 }
 /* Editor Specfic Edits End -------------------------- */
 /* Resources and Posts ------------------------------- */
