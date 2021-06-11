@@ -431,16 +431,17 @@ h1.postTitle {
     background-color: #f4f4f4 !important;
 }
 
-.expertTitle {
-    font-size: 3.33333rem;
-    line-height: 3.5rem;
-    font-weight: bold;
-}
-
 .expertCTA {
     font-size: 1.66667rem;
     line-height: 2.11111rem;
     font weight: bold;
+    background-color: #f4f4f4 !important;
+}
+
+.expertTitle {
+    font-size: 3.33333rem;
+    line-height: 3.5rem;
+    font-weight: bold;
 }
 
 .expertCTA button {
