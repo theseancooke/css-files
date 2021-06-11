@@ -386,6 +386,13 @@ h1.postTitle {
     text-shadow: 0 0 5px #000;
 }
 /*Template Components End ------------------------------ */
+/* Editor Only CSS ------------------------------------- */
+.editor .heroImage {
+    height: 400px;
+}
+
+/* END Editor Only CSS --------------------------------- */
+
 
 /*TEMPLATE 1 STYLES ------------------------------ */
 
