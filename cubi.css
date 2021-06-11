@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     text-decoration: none !important;
 }
 .whiteBtn>button:hover {
-    background-color: var(--lightGray);
+    background-color: var(--lightSurface);
 }
 .whiteBtn .button-label {
     color: var(--main);
