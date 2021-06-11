@@ -291,9 +291,8 @@ html { font-size: 18px; !important }
 .postCard .postImage {
     background-color: #0378d5;
 }
-.postCard .postImage img:hover {
-    mix-blend-mode: inherit;
-        opacity: 100%;
+.postCard:hover {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
 .postCard .postImage img {
     mix-blend-mode: luminosity;
