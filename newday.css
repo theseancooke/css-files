@@ -426,6 +426,7 @@ h1.postTitle {
 .expertTitle {
     font-size: 3.33333rem;
     line-height: 3.5rem;
+    font-weight: bold;
 }
 
 .expertCTA {
@@ -438,6 +439,7 @@ h1.postTitle {
     border-radius: 100px;
     background-color: #005493;
     border: 1px solid #005493;
+    font-size: 1.11111rem;
 }
 
 .expertCTA button:hover {
@@ -459,6 +461,7 @@ h1.postTitle {
     border-radius: 100px;
     background-color: #1bb57c;
     border: 1px solid #1bb57c;
+    font-size: 1.11111rem;
 }
 
 .fixedCTA button:hover {
