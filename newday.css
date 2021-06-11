@@ -257,6 +257,10 @@ html { font-size: 18px; !important }
     bottom: 90px;
     z-index: 100;
 }
+.postCard .postIcon {
+    bottom: 90px;
+    z-index: 100;
+}
 .postCard .postImage {
     background-color: #0378d5;
 }
