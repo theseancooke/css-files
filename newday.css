@@ -261,7 +261,7 @@ html { font-size: 18px; !important }
     text-shadow: 0 0 5px #000;
 }
 .postCard .postImage {
-    background-color: #005696;
+    background-color: ##0378d5;
 }
 .postCard .postImage img:hover {
     mix-blend-mode: inherit;
@@ -276,7 +276,7 @@ html { font-size: 18px; !important }
 .postImage {
     display: flex;
     justify-content: center;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 .postImageHero {
     height: 400px;
