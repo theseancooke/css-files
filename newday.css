@@ -424,8 +424,13 @@ h1.postTitle {
 }
 
 .stickyBoi {
-    position: sticky;
-    top: 170px;
+    background: grey;
+  grid-column: 1 / 2;
+  grid-row: 2;
+  position: sticky !important;
+  top: 170px;
+  right: 0;
+  align-self: start;
 }
 
 /*SHARE BUTTON*/
