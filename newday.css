@@ -428,10 +428,21 @@ h1.postTitle {
     line-height: 3.5rem;
 }
 
-.expertSubtitle {
+.expertCTA {
     font-size: 1.66667rem;
     line-height: 2.11111rem;
     font weight: bold;
+}
+
+.expertCTA button {
+    border-radius: 100px;
+    background-color: #005493;
+    border: 1px solid #005493;
+}
+
+.expertCTA button:hover {
+    background-color: #003A70;
+    border-color: #003A70;
 }
 
 .fixedCTA {
