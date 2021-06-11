@@ -261,7 +261,7 @@ html { font-size: 18px; !important }
     text-shadow: 0 0 5px #000;
 }
 .postCard .postImage {
-    background-color: ##0378d5;
+    background-color: #0378d5;
 }
 .postCard .postImage img:hover {
     mix-blend-mode: inherit;
