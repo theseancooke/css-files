@@ -449,6 +449,7 @@ h1.postTitle {
     border-width: 2px !important;
     border-style: solid !important;
     border-radius: 10px;
+    font-weight: normal;
 }
 
 /*SHARE BUTTON*/
