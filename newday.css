@@ -423,6 +423,11 @@ h1.postTitle {
     background-color: #f4f4f4 !important;
 }
 
+.stickyBoi {
+    position: sticky;
+    top: 160px;
+}
+
 /*SHARE BUTTON*/
 .shareThis .button-label {
     text-transform: uppercase;
