@@ -423,6 +423,11 @@ h1.postTitle {
     background-color: #f4f4f4 !important;
 }
 
+.expertTitle {
+    font-size: 3.33333rem;
+    line-height: 3.5rem;
+}
+
 .fixedCTA {
     background: #ffffff !important;
     border-radius: 10px;
