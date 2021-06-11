@@ -428,6 +428,12 @@ h1.postTitle {
     line-height: 3.5rem;
 }
 
+.expertSubtitle {
+    font-size: 1.66667rem;
+    line-height: 2.11111rem;
+    font weight: bold;
+}
+
 .fixedCTA {
     background: #ffffff !important;
     border-radius: 10px;
