@@ -252,7 +252,7 @@ html { font-size: 18px; !important }
 /* Resources and Posts ------------------------------- */
 .postCard .postTitle {
     color: #fff;
-    font-size: 1.5em;
+    font-size: 1rem;
     position: relative;
     bottom: 90px;
     z-index: 100;
