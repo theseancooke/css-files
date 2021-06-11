@@ -433,6 +433,16 @@ h1.postTitle {
     line-height: 1.77778rem;
 }
 
+.fixedCTA button {
+    border-radius: 100px;
+    background-color: #1bb57c;
+}
+
+.fixedCTAcall {
+    border: 2px solid #E0E0E4;
+    border-radius: 10px;
+}
+
 /*SHARE BUTTON*/
 .shareThis .button-label {
     text-transform: uppercase;
