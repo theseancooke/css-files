@@ -276,7 +276,7 @@ html { font-size: 18px; !important }
     bottom: 125px;
     z-index: 100;
 }
-a.postCategory {
+.postCategory {
     color: #ffffff;
     text-decoration: none;
 }
