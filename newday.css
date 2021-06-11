@@ -427,7 +427,6 @@ h1.postTitle {
     background: #ffffff !important;
     border-radius: 10px;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px !important;
-    text-align: center !important;
     font-weight: bold;
     color: #005696;
     font-size: 1.33333rem;
@@ -437,6 +436,12 @@ h1.postTitle {
 .fixedCTA button {
     border-radius: 100px;
     background-color: #1bb57c;
+    border: 1px solid #1bb57c;
+}
+
+button.fixedCTA:hover {
+    background-color: #189f6d;
+    border-color: #189f6d;
 }
 
 .fixedCTAcall {
