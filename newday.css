@@ -445,7 +445,9 @@ h1.postTitle {
 }
 
 .fixedCTAcall {
-    border: 2px solid #E0E0E4;
+    border-color: #E0E0E4 !important;
+    border-width: 2px !important;
+    border-style: solid !important;
     border-radius: 10px;
 }
 
