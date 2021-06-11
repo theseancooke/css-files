@@ -18,10 +18,6 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     font-family: 'Open Sans', sans-serif;
 }
 
-.lightSurface {
-    background-color: var(--lightSurface) !important;
-}
-
 /* Buttons ----------------------------------- */
 .blueBtn>button {
     background-color: var(--main);
@@ -152,6 +148,10 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
 
 /* Assistant Routes -------------------------------- */
 .assistantContainer {
+    background-color: var(--lightSurface) !important;
+}
+
+.assistant {
     background-color: #ffffff;
     border-radius: 12px;
     border: 1px solid #767676 !important;
