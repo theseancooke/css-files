@@ -536,7 +536,7 @@ button .button-label {
 /*SHARE BUTTON*/
 .shareThis .button-label {
     text-transform: uppercase;
-    font-size: 0.77778rem;
+    font-size: 0.77778rem !important;
     color: #101010;
 }
 
