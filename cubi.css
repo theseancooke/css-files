@@ -175,6 +175,10 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     letter-spacing: -0.2px;
 }
 
+.footerLinks a, .footerLinks a:hover {
+    color: #ffffff;
+}
+
 .appStoreBadge img {
     border: 2px solid #ffffff;
     border-radius: 15px;
