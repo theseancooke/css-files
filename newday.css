@@ -269,7 +269,9 @@ html { font-size: 18px; !important }
 
 /* Home Page End ------------------------------------- */
 /* 100 Cash Out Page --------------------------------- */
-
+.CashOutHeroOverlay {
+    top: -480px;
+}
 
 /* 100 Cash Out Page END ----------------------------- */
 /* Editor Specfic Edits ------------------------------ */
