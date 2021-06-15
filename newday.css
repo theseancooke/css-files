@@ -267,6 +267,23 @@ html { font-size: 18px; !important }
     color: white;
 }
 
+.iconList li {
+    background: url(https://www.newdayusa.com/Content/images/CheckMark.png) no-repeat left center;
+    height: 40px;
+    padding-top: 1px;
+    padding-left: 3rem;
+    margin-left: 0;
+    margin-bottom: 1rem;
+    list-style: none;
+}
+
+.iconList ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    line-height: 2rem;
+}
+
 /* Home Page End ------------------------------------- */
 /* 100 Cash Out Page --------------------------------- */
 .CashOutHeroOverlay {
@@ -439,7 +456,7 @@ h1.postTitle {
 /* END Editor Only CSS --------------------------------- */
 
 
-/*TEMPLATE 1 STYLES ------------------------------ */
+/*TEMPLATE STYLES ------------------------------ */
 
 /*CONTENT*/
 .titleContainer {
