@@ -268,7 +268,7 @@ html { font-size: 18px; !important }
 }
 
 .iconList li {
-    background: url(https://www.newdayusa.com/Content/images/CheckMark.png) no-repeat left center;
+    background: url('https://www.newdayusa.com/Content/images/CheckMark.png') no-repeat left center;
     height: 40px;
     padding-top: 1px;
     padding-left: 3rem;
