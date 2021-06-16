@@ -44,6 +44,9 @@ html { font-size: 18px; !important }
     margin-left: auto;
     margin-right: auto;
 }
+.unGrid>div>div {
+    display: block !important;
+}
 
 .Container, .Pie, .Bar, .Label, .label-container {
       background-color: #ffffff00 !important;
