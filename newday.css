@@ -457,6 +457,11 @@ h1.postTitle {
     background-size: cover;
     background-position: center;
 }
+.TemplateBannerImage {
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+}
 .shadowBox {
     text-shadow: 0 0 5px #000;
 }
