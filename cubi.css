@@ -164,6 +164,23 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     border: 1px solid #767676 !important;
 }
 
+.assistantTitle {
+    color: #000000;
+    font-size: 32px;
+    line-height: 42px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.assistantSub {
+    color: #767676;
+    font-size: 20px;
+    text-align: center;
+    line-height: 28px;
+    letter-spacing: -0.4;
+    font-weight: 700;
+}
+
 /* Footer Row -------------------------------- */
 .footerRow {
     background-color: var(--main) !important;
