@@ -295,6 +295,10 @@ html { font-size: 18px; !important }
 
 /* 100 Cash Out Page END ----------------------------- */
 /* Editor Specfic Edits ------------------------------ */
+.notvisible {
+    visibility: hidden !important;
+    display: none;
+}
 .checkme .custom-checkbox>input {
     opacity: 1;
 }
