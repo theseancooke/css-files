@@ -233,6 +233,11 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     text-align: center;
 }
 
+.seeDetails {
+    border-top: 1px solid #D2D2D2;
+}
+    
+
 /* Footer Row -------------------------------- */
 .footerRow {
     background-color: var(--main) !important;
