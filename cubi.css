@@ -189,13 +189,13 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     font-size: 20px;
     text-align: center;
     line-height: 28px;
-    letter-spacing: -0.4;
+    letter-spacing: -0.4px;
     font-weight: 700;
 }
 
 .assistantBody {
     font-size: 16px;
-    letter-spacing: -0.4;
+    letter-spacing: -0.4px;
     line-height: 1.5;
     color: #767676;
     text-align: center;
@@ -207,7 +207,7 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     color: #767676;
     text-align: left;
     line-height: 1.5;
-    letter-spacing: -0.4;
+    letter-spacing: -0.4px;
     font-weight: 700;
 }
 
@@ -216,12 +216,12 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     color: #767676;
     line-height: 1.5;
     font-weight: 400;
-    letter-spacing: -0.4 !important;
+    letter-spacing: -0.4px;
     text-align: right;
 }
 
 .productSelect i {
-    margin: 0px 0.2em;
+    margin: 0px 0.2em !important;
 }
 
 /* Footer Row -------------------------------- */
