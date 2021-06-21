@@ -240,9 +240,6 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
 
 .includesList li {
     height: 40px;
-    padding-top: 1px;
-    padding-left: 3rem;
-    margin-left: 0;
     margin-bottom: 1rem;
     list-style: none;
 }
