@@ -168,6 +168,14 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     padding: 15px !important;
 }
 
+.bigTitle {
+    font-size: 48px;
+    line-height: 1.208;
+    color: #000000;
+    font-weight: 800;
+    text-align: center;
+}
+
 .assistantTitle {
     color: #000000;
     font-size: 32px;
