@@ -252,8 +252,23 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
 .seeDetails {
     border-top: 1px solid #D2D2D2 !important;
 }
-    
 
+.seeDetails .button-label {
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: -0.4px;
+    line-height: 1.5;
+    color: #00529B;
+}
+
+.seeDetails .btn-link.focus, .seeDetails .btn-link:focus, .seeDetails .btn-link:hover {
+    text-decoration: none;
+}
+
+.seeDetails .btn-link {
+    color: #00529B; 
+}
+    
 /* Footer Row -------------------------------- */
 .footerRow {
     background-color: var(--main) !important;
