@@ -224,6 +224,15 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     margin: 0px 0.2em !important;
 }
 
+.includesHeader {
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: -0.2px;
+    line-height: 1.5;
+    color: #000000;
+    text-align: center;
+}
+
 /* Footer Row -------------------------------- */
 .footerRow {
     background-color: var(--main) !important;
