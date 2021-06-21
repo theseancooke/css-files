@@ -179,7 +179,7 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
 .assistantTitle {
     color: #000000;
     font-size: 32px;
-    line-height: 42px;
+    line-height: 1.313;
     font-weight: 800;
     text-align: center;
 }
@@ -191,6 +191,15 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     line-height: 28px;
     letter-spacing: -0.4;
     font-weight: 700;
+}
+
+.assistantBody {
+    font-size: 16px;
+    letter-spacing: -0.4;
+    line-height: 1.5;
+    color: #767676;
+    text-align: center;
+    font-weight: 400;
 }
 
 /* Footer Row -------------------------------- */
