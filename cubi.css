@@ -240,19 +240,13 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
 
 .includesList i {
     color: #767676;
-}
-
-.includesList li {
-    height: 40px;
-    margin-bottom: 1rem;
-    list-style: none;
+    text-align: left;
+    font-size: 1.5em;
+    width: 1em;
 }
 
 .includesList ul {
     list-style-type: none;
-    padding: 0;
-    margin: 0;
-    line-height: 2rem;
 }
 
 .seeDetails {
