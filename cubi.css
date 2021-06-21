@@ -211,6 +211,15 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     font-weight: 700;
 }
 
+.productSelect {
+    font-size: 16px;
+    color: #767676;
+    line-height: 1.5;
+    font-weight: 400;
+    letter-spacing: -0.4;
+    text-align: right;
+}
+
 /* Footer Row -------------------------------- */
 .footerRow {
     background-color: var(--main) !important;
