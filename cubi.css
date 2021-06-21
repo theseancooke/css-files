@@ -202,6 +202,15 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     font-weight: 400;
 }
 
+.productLabel {
+    font-size: 16px;
+    color: #767676;
+    text-align: left;
+    line-height: 1.5;
+    letter-spacing: -0.4;
+    font-weight: 700;
+}
+
 /* Footer Row -------------------------------- */
 .footerRow {
     background-color: var(--main) !important;
