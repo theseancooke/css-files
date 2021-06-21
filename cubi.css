@@ -165,6 +165,10 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     border: 1px solid #767676 !important;
 }
 
+.assistant .outer-container {
+    padding: 15px;
+}
+
 .assistantTitle {
     color: #000000;
     font-size: 32px;
