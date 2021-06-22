@@ -55,7 +55,27 @@ html { font-size: 18px; !important }
       font-family: Fjalla One, sans-serif;
     color: #fff;
 }
+.submenu .LinkWrapper a:hover {
+    text-decoration: none !important;
+}
 
+.submenu_label {
+    background-color: coral !important;
+    color: white;
+    padding: 10px 5px;
+    border-radius: 5px;
+}
+.submenu_label .label-container {
+    display: flex;
+    text-overflow: ellipsis;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.submenu_label:hover {
+    background-color: cornsilk !important;
+    color: coral;
+}
 
 /* "Get Started" Wizard ---------------------- */
 .Wizard .label-container {
