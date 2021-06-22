@@ -95,6 +95,7 @@ html { font-size: 18px; !important }
 .white .submenu_label {
     background-color: white !important;
     color: black;
+    border: 1px solid grey;
 }
 
 .white .submenu_label:hover {
