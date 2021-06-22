@@ -99,17 +99,17 @@ html { font-size: 18px; !important }
 
 .white .submenu_label:hover {
     background-color: grey !important;
-    color: black;
+    color: white;
 }
 
 .orange .submenu_label {
-    background-color: orange !important;
+    background-color: coral !important;
     color: white;
 }
 
 .orange .submenu_label:hover {
-    background-color: lightorange !important;
-    color: orange;
+    background-color: lightcoral !important;
+    color: coral;
 }
 /* End Sub Menues ---------------------------- */
 
