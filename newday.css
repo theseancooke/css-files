@@ -55,13 +55,12 @@ html { font-size: 18px; !important }
       font-family: Fjalla One, sans-serif;
     color: #fff;
 }
+/* Sub Menues -------------------------------- */
 .submenu .LinkWrapper a:hover {
     text-decoration: none !important;
 }
 
 .submenu_label {
-    background-color: coral !important;
-    color: white;
     padding: 10px 5px;
     border-radius: 5px;
 }
@@ -72,10 +71,47 @@ html { font-size: 18px; !important }
     flex-wrap: wrap;
     justify-content: center;
 }
-.submenu_label:hover {
-    background-color: cornsilk !important;
-    color: coral;
+
+.blue .submenu_label {
+    background-color: blue !important;
+    color: white;
 }
+
+.blue .submenu_label:hover {
+    background-color: lightblue !important;
+    color: blue;
+}
+
+.red .submenu_label {
+    background-color: red !important;
+    color: white;
+}
+
+.red .submenu_label:hover {
+    background-color: pink !important;
+    color: red;
+}
+
+.white .submenu_label {
+    background-color: white !important;
+    color: black;
+}
+
+.white .submenu_label:hover {
+    background-color: grey !important;
+    color: black;
+}
+
+.orange .submenu_label {
+    background-color: orange !important;
+    color: white;
+}
+
+.orange .submenu_label:hover {
+    background-color: lightorange !important;
+    color: orange;
+}
+/* End Sub Menues ---------------------------- */
 
 /* "Get Started" Wizard ---------------------- */
 .Wizard .label-container {
