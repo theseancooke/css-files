@@ -381,6 +381,18 @@ html { font-size: 18px; !important }
 .column_text {
     font-size: 1.4rem;
 }
+.cta_subtitle {
+    color: #093A71;
+    font-size: 2rem;
+}
+.slider_title {
+    font-family: 'Fjalla One';
+    color: #093A71;
+    font-size: 2.2rem;
+}
+.slide {
+    font-size: 1.4rem;
+}
 /* Eligibility Page END ----------------------------- */
 /* Editor Specfic Edits --------------------------------------------------------------------------------------- */
 
