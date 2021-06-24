@@ -357,6 +357,19 @@ html { font-size: 18px; !important }
 }
 
 /* Purchase Page END ----------------------------- */
+/* Eligibility Page --------------------------------- */
+.cta_title {
+    font-family: 'Fjalla One';
+    font-size: 2.4rem;
+    color: #2e2e2e;
+}
+.cta_column .column_title {
+    font-family: 'Roboto';
+    color: #093a71;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+/* Eligibility Page END ----------------------------- */
 /* Editor Specfic Edits ------------------------------ */
 
 .sendtoback {
