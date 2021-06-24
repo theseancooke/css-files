@@ -55,7 +55,7 @@ html { font-size: 18px; !important }
       font-family: Fjalla One, sans-serif;
     color: #fff;
 }
-/* Sub Menues -------------------------------- */
+/* Sub Menues ------------------------------------------------------------------------------------------------------------ */
 .submenu .LinkWrapper a:hover {
     text-decoration: none !important;
 }
@@ -114,7 +114,7 @@ html { font-size: 18px; !important }
 }
 /* End Sub Menues ---------------------------- */
 
-/* "Get Started" Wizard ---------------------- */
+/* "Get Started" Wizard -------------------------------------------------------------------------------------------------- */
 .Wizard .label-container {
     display: block;
 }
@@ -256,7 +256,7 @@ html { font-size: 18px; !important }
 }
 
 /* "Get Started" Wizard End ---------------------- */
-/* Home Page ------------------------------------- */
+/* Home Page ----------------------------------------------------------------------------------------------------------------- */
 .featureRow li {
     list-style: disc;
     margin-left: 1em;
@@ -345,19 +345,19 @@ html { font-size: 18px; !important }
 }
 
 /* Home Page End ------------------------------------- */
-/* 100 Cash Out Page --------------------------------- */
+/* 100 Cash Out Page ------------------------------------------------------------------------------------------ */
 .CashOutHeroOverlay {
     top: -480px;
 }
 
 /* 100 Cash Out Page END ----------------------------- */
-/* Purchase Page --------------------------------- */
+/* Purchase Page ---------------------------------------------------------------------------------------------- */
 .PurchaseHeroOverlay {
     top: -280px;
 }
 
 /* Purchase Page END ----------------------------- */
-/* Eligibility Page --------------------------------- */
+/* Eligibility Page ------------------------------------------------------------------------------------------ */
 .cta_title {
     font-family: 'Fjalla One';
     font-size: 2.4rem;
@@ -369,8 +369,20 @@ html { font-size: 18px; !important }
     font-size: 1.1rem;
     font-weight: 500;
 }
+.cta_column {
+    background-color: #eeeeee !important;
+    border-radius: 15px;
+    padding: 30px;
+}
+.column_text li {
+    list-style: disc;
+    margin-left: 30px;
+}
+.column_text {
+    font-size: 1.4rem;
+}
 /* Eligibility Page END ----------------------------- */
-/* Editor Specfic Edits ------------------------------ */
+/* Editor Specfic Edits --------------------------------------------------------------------------------------- */
 
 .sendtoback {
     z-index: -100;
@@ -403,7 +415,7 @@ html { font-size: 18px; !important }
 }
 
 /* Editor Specfic Edits End -------------------------- */
-/* Resources and Posts ------------------------------- */
+/* Resources and Posts ----------------------------------------------------------------------------------------------------------- */
 .postDetails {
     bottom: 115px;
     z-index: 100;
@@ -556,7 +568,7 @@ h1.postTitle {
 
 
 
-/*TEMPLATE STYLES ------------------------------ */
+/*TEMPLATE STYLES ---------------------------------------------------------------------------------------------------------- */
 
 /*CONTENT*/
 .titleContainer {
