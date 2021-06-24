@@ -351,6 +351,12 @@ html { font-size: 18px; !important }
 }
 
 /* 100 Cash Out Page END ----------------------------- */
+/* Purchase Page --------------------------------- */
+.PurchaseHeroOverlay {
+    top: -280px;
+}
+
+/* Purchase Page END ----------------------------- */
 /* Editor Specfic Edits ------------------------------ */
 
 .sendtoback {
