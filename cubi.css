@@ -30,22 +30,25 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     font-size: 16px !important;
     font-weight: 700;
 }
-.whiteBtn>button {
+.whiteBtn>button, .whiteBtn-graytext>button {
     background-color: #fff;
     border-radius: 6px;
     text-decoration: none !important;
 }
-.whiteBtn>button:hover {
+.whiteBtn>button:hover, .whiteBtn-graytext>button:hover {
     background-color: var(--lightSurface);
 }
-.whiteBtn .button-label {
+.whiteBtn .button-label, .whiteBtn-graytext .button-label {
     color: var(--main);
     font-size: 16px !important;
     font-weight: 700;
 }
-.whiteBtn>button:hover .button-label {
+.whiteBtn>button:hover .button-label, .whiteBtn-graytext>button:hover .button-label {
     color: var(--mainHover);
 }
+
+.whiteBtn-graytext .button-label {
+    color: #767676 !important;
 
 /* Header Row -------------------------------- */
 .HeroRow .breadcrumbs {
