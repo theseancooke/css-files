@@ -425,6 +425,12 @@ html { font-size: 18px; !important }
 .editor div {
     font-size: 1rem !important;
 }
+.edit_bioImage {
+    height: 220px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
 
 /* Editor Specfic Edits End -------------------------- */
 /* Resources and Posts ----------------------------------------------------------------------------------------------------------- */
