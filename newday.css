@@ -434,6 +434,12 @@ html { font-size: 18px; !important }
 
 /* Editor Specfic Edits End -------------------------- */
 /* Resources and Posts ----------------------------------------------------------------------------------------------------------- */
+bioImage {
+    height: 220px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
 .postDetails {
     bottom: 115px;
     z-index: 100;
