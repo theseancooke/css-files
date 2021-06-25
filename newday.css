@@ -590,6 +590,12 @@ h1.postTitle {
 .title {
     font-size: 2.5rem;
 }
+.theParBold {
+    font-size: 1.1rem;
+    line-height: 1.44444rem;
+    color: #101010;
+    font-weight: 700;
+}
 
 .parTitle {
     color: #005696;
