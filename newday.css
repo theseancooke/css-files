@@ -435,10 +435,11 @@ html { font-size: 18px; !important }
 /* Editor Specfic Edits End -------------------------- */
 /* Resources and Posts ----------------------------------------------------------------------------------------------------------- */
 .bioImage {
-    height: 220px;
+    height: 420px;
     background-size: cover;
     background-position: center;
     border-radius: 10px;
+    margin-bottom: 20px;
 }
 .postDetails {
     bottom: 115px;
