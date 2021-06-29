@@ -434,7 +434,7 @@ html { font-size: 18px; !important }
 
 /* Editor Specfic Edits End -------------------------- */
 /* Resources and Posts ----------------------------------------------------------------------------------------------------------- */
-bioImage {
+.bioImage {
     height: 220px;
     background-size: cover;
     background-position: center;
