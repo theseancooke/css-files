@@ -503,6 +503,9 @@ h1.postTitle {
     font-size: 1.3em;
     line-height: 1.7em;
 }
+.capital {
+    text-transform: capitalize;
+}
 
 .postText p {
     margin-bottom: 1.5em;
