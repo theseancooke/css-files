@@ -445,9 +445,9 @@ html { font-size: 18px; !important }
     bottom: 115px;
     z-index: 100;
 }
-.postDetails:hover {
+/*.postDetails:hover {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-}
+}*/
 .postCategory {
     color: #ffffff;
     text-decoration: none;
@@ -464,6 +464,9 @@ html { font-size: 18px; !important }
     z-index: 100;
     font-weight: 700;
     text-shadow: 0 0 5px #000;
+}
+.postCard .postTitle:hover{
+        text-decoration: none;
 }
 .postCard .postImage {
     background-color: #0378d5;
