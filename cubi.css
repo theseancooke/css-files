@@ -201,15 +201,6 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     font-weight: 400;
 }
 
-.productName {
-    font-size: 16px;
-    color: #767676;
-    text-align: left;
-    line-height: 1.5;
-    letter-spacing: -0.4px;
-    font-weight: 700;
-}
-
 .productSelect .button-label {
     font-size: 16px !important;
     color: #767676;
@@ -223,13 +214,19 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     margin: 0px 0.2em !important;
 }
 
-.listLabel {
-    font-size: 16px;
-    font-weight: 700;
-    letter-spacing: -0.2px;
-    line-height: 1.5;
+.foundationHead {
     color: #000000;
-    text-align: center;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 1.313;
+}
+
+.foundationSubhead {
+    color: #767676;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: -0.4px;
 }
 
 .foundationList {
@@ -250,6 +247,13 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
 
 .foundationList ul {
     list-style-type: none;
+}
+
+.additionHead {
+    color: #000000;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 1.417;
 }
 
 .additionList {
