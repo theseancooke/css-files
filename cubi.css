@@ -201,7 +201,7 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     font-weight: 400;
 }
 
-.productLabel {
+.productName {
     font-size: 16px;
     color: #767676;
     text-align: left;
@@ -223,7 +223,7 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     margin: 0px 0.2em !important;
 }
 
-.includesHeader {
+.listLabel {
     font-size: 16px;
     font-weight: 700;
     letter-spacing: -0.2px;
@@ -232,7 +232,7 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     text-align: center;
 }
 
-.includesList {
+.productList {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: -0.6px;
@@ -241,14 +241,14 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     text-align: left;
 }
 
-.includesList i {
+.productList i {
     color: #767676;
     text-align: left;
     font-size: 1.5em;
     width: 1em;
 }
 
-.includesList ul {
+.productList ul {
     list-style-type: none;
 }
 
