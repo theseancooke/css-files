@@ -55,7 +55,7 @@ html { font-size: 18px; !important }
       font-family: Fjalla One, sans-serif;
     color: #fff;
 }
-nav > ul > li:nth-child(1) {
+.tempNavbar nav > ul > li:nth-child(1) {
     display: none;
 }
 /* Sub Menues ------------------------------------------------------------------------------------------------------------ */
