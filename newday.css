@@ -58,7 +58,7 @@ html { font-size: 18px; !important }
 .tempNavbar nav > ul > li:nth-child(1) {
     display: none;
 }
-/* Sub Menues ------------------------------------------------------------------------------------------------------------ */
+/* Sub Menus ------------------------------------------------------------------------------------------------------------ */
 .submenu .LinkWrapper a:hover {
     text-decoration: none !important;
 }
@@ -260,6 +260,11 @@ html { font-size: 18px; !important }
 
 /* "Get Started" Wizard End ---------------------- */
 /* Home Page ----------------------------------------------------------------------------------------------------------------- */
+
+.heroContent a, .heroContent a:hover {
+    color: #F5A800;
+}
+
 .featureRow li {
     list-style: disc;
     margin-left: 1em;
