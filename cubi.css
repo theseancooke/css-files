@@ -52,23 +52,20 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
 }
 
 .clearBtn {
-    height: 48px !important;
-    border-radius: 8px !important;
-    border: 2px solid #00529B !important;
-    color: #00529B !important;
-    font-weight: bold !important;
-    font-size: 16px;
-    background-color: #ffffff !important;
+    min-height: 48px !important;
 }
 
 .clearBtn .btn-primary {
     height: 48px !important;
     border-radius: 8px !important;
     border: 2px solid #00529B !important;
+    background-color: #ffffff !important;
+}
+
+.clearBtn .button-label {
     color: #00529B !important;
     font-weight: bold !important;
     font-size: 16px;
-    background-color: #ffffff !important;
 }
 
 /* Header Row -------------------------------- */
