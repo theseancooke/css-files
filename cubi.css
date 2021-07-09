@@ -52,11 +52,12 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
 }
 
 .clearBtn {
-    height: 48px;
-    border-radius: 8px;
-    border: 2px solid #00529B;
-    color: #00529B;
-    font-weight: bold;
+    height: 48px !important;
+    border-radius: 8px !important;
+    border: 2px solid #00529B !important;
+    color: #00529B !important;
+    font-weight: bold !important;
+    background-color: #ffffff !important;
 }
 
 /* Header Row -------------------------------- */
