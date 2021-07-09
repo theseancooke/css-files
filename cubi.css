@@ -60,12 +60,13 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     border-radius: 8px !important;
     border: 2px solid #00529B !important;
     background-color: #ffffff !important;
+    color: #00529B !important;
 }
 
 .clearBtn .button-label {
     color: #00529B !important;
     font-weight: bold !important;
-    font-size: 16px;
+    font-size: 16px !important;
 }
 
 /* Header Row -------------------------------- */
