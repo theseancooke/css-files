@@ -51,6 +51,14 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     color: #767676 !important;
 }
 
+.clearBtn {
+    height: 48px;
+    border-radius: 8px;
+    border: 2px solid #00529B;
+    color: #00529B;
+    font-weight: bold;
+}
+
 /* Header Row -------------------------------- */
 .HeroRow .breadcrumbs {
     font-size: 16px !important;
