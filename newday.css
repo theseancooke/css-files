@@ -491,8 +491,8 @@ html { font-size: 18px; !important }
 }
 .postCard .postImage img {
     opacity: 15%;
-    min-width: 600px !important;
-    max-width: 700px !important;
+    min-width: 100% !important;
+    max-width: 100% !important;
 }
 .postImage {
     display: flex;
