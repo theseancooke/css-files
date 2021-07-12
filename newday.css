@@ -443,7 +443,7 @@ html { font-size: 18px; !important }
 /* Editor Specfic Edits End -------------------------- */
 /* Resources and Posts ----------------------------------------------------------------------------------------------------------- */
 .bioImage {
-    height: 420px;
+    height: 310px;
     background-size: cover;
     background-position: center;
     border-radius: 10px;
