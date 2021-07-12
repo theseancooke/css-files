@@ -469,6 +469,7 @@ html { font-size: 18px; !important }
     position: relative;
     z-index: 100;
     font-weight: 700;
+    top: -80px;
 }
 .postCard .postTitle:hover{
         text-decoration: none;
