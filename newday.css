@@ -725,6 +725,7 @@ button .button-label {
     color: #ffffff;
     text-shadow: 0 3px 27px rgb(0 0 0 / 66%);
     font-family: "GT Walsheim Pro Regular";
+    text-align: center;
 }
 
 .quoteAttribution {
@@ -732,7 +733,8 @@ button .button-label {
     text-transform: capitalize;
     font-family: "Cedarville Cursive", cursive;
     text-shadow: 0 3px 27px rgb(0 0 0 / 66%);
-    text-align:
+    text-align: center;
+    font-size: 2.22222rem;
 }
 
 /*SHARE BUTTON*/
