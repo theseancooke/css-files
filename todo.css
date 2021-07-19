@@ -1,8 +1,18 @@
-.todoLinkText {
-    background-color: transparent;
-}
 .todoLink {
     background: CORAL;
     display: block !important;
     border: 1px solid darkorange;
+}
+.todoLink:hover {
+        background: goldenrod;
+}
+.todoLinkText {
+    background-color: transparent;
+    color: white;
+    font-weight: 900;
+    font-size: 2em;
+}
+.todoLinkText:hover {
+    text-decoration: none;
+    color: coral;
 }
