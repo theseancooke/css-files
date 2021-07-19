@@ -30,6 +30,7 @@
 .RepeatContainer.magic {
     border-radius: 5px;
     height: 90% !important;
+    box-shadow: 0 0 8px #00000069;
 }
 .trashIcon {
     top: 14px;
