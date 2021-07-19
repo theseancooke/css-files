@@ -1,10 +1,9 @@
 .todoLink {
-    background: CORAL;
+    background-color: coral;
     display: block !important;
-    border: 1px solid darkorange;
 }
 .todoLink:hover {
-        background: goldenrod;
+        background-color: mistyrose;
 }
 .todoLinkText {
     background-color: transparent !important;
