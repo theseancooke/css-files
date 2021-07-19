@@ -27,6 +27,9 @@
 .magic {
     background-color: transparent !important;
 }
+.CompleteWrapper .magic div {
+    background-color: transparent !important;
+}
 .RepeatContainer.magic {
     border-radius: 5px;
     height: 90% !important;
