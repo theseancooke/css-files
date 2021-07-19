@@ -1,1 +1,8 @@
-
+.todoLinkText {
+    background-color: transparent;
+}
+.todoLink {
+    background: CORAL;
+    display: block !important;
+    border: 1px solid darkorange;
+}
