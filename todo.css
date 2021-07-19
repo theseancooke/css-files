@@ -21,6 +21,9 @@
 .trashWrapper {
     background-color: lightpink;
 }
+.todoWrapper {
+    background-color: white;
+}
 .magic {
     background-color: transparent !important;
 }
