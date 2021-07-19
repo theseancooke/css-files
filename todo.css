@@ -43,3 +43,11 @@
 .ReactModal__Content.ReactModal__Content--after-open {
     width: 40rem;
 }
+/*FOR TESTING*/
+
+.CompleteWrapper .complete {
+    background-color: coral !important;
+}
+.CompleteWrapper {
+    background-color: green !important;
+}
