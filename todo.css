@@ -21,6 +21,9 @@
 .trashWrapper {
     background-color: lightpink;
 }
+.magic {
+    background-color: transparent !important;
+}
 /* Need to find a mre precise name */
 .ReactModal__Content.ReactModal__Content--after-open {
     width: 40rem;
