@@ -31,6 +31,10 @@
     border-radius: 5px;
     height: 90% !important;
 }
+.trashIcon {
+    top: 14px;
+    left: -3px;
+}
 /* Need to find a mre precise name */
 .ReactModal__Content.ReactModal__Content--after-open {
     width: 40rem;
