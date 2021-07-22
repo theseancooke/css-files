@@ -39,8 +39,8 @@ button {
 .blueBtn button:focus {
     background-color: var(--primaryBlue);
 }
-.blueBtn button .btn-secondary:not(:disabled):not(.disabled).active, .blueBtn button .btn-secondary:not(:disabled):not(.disabled):active {
-    background-color: var(--primaryBlueActive);
+.blueBtn button:active {
+    background-color: var(--primaryBlueActive) !important;
 }   
 .blueBtn .button-label {
     color: #fff;
