@@ -21,6 +21,7 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
 button {
     border-radius: 8px;
     text-decoration: none !important;
+    border: none !important;
 }
 .button-label {
     font-size: 16px !important;
@@ -38,7 +39,7 @@ button {
 .blueBtn button:focus {
     background-color: var(--primaryBlue);
 }
-.blueBtn button:active {
+.blueBtn button .btn-secondary:not(:disabled):not(.disabled).active, .blueBtn button .btn-secondary:not(:disabled):not(.disabled):active {
     background-color: var(--primaryBlueActive);
 }   
 .blueBtn .button-label {
