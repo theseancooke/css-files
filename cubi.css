@@ -18,30 +18,43 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
 }
 
 /* Buttons ----------------------------------- */
-.blueBtn>button {
-    background-color: var(--main);
-    border-radius: 6px;
+button {
+    border-radius: 8px;
+    text-decoration: none !important;
 }
-.blueBtn>button:hover {
-    background-color: var(--mainHover);
-}
-.blueBtn .button-label {
-    color: #fff;
+.button-label {
     font-size: 16px !important;
     font-weight: 700;
-}
-.whiteBtn>button, .whiteBtn-graytext>button {
-    background-color: #fff;
-    border-radius: 6px;
+    letter-spacing: -0.2px;
+    line-height: 1.5;
     text-decoration: none !important;
+}
+.blueBtn button {
+    background-color: var(--primaryBlue);
+}
+.blueBtn button:hover {
+    background-color: var(--primaryBlueHover);
+}
+.blueBtn button:focus {
+    background-color: var(--primaryBlue);
+}
+.blueBtn button:active {
+    background-color: var(--primaryBlueActive);
+}   
+.blueBtn .button-label {
+    color: #fff;
+}
+.whiteBtn button {
+    background-color: var(--primaryWhite);
+}
+.blueBtn button:hover {
+    background-color: var(--primaryBlueHover);
 }
 .whiteBtn>button:hover, .whiteBtn-graytext>button:hover {
     background-color: var(--lightSurface);
 }
-.whiteBtn .button-label, .whiteBtn-graytext .button-label {
-    color: var(--main);
-    font-size: 16px !important;
-    font-weight: 700;
+.whiteBtn .button-label {
+    color: var(--primaryBlue);
 }
 .whiteBtn>button:hover .button-label, .whiteBtn-graytext>button:hover .button-label {
     color: var(--mainHover);
