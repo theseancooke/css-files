@@ -87,7 +87,7 @@ button {
 .HeroRow .breadcrumbs {
     font-size: 16px !important;
     font-weight: 700;
-    color: var(--main);
+    color: var(--primaryBlue);
     text-transform: uppercase;
 }
 .greyText {
