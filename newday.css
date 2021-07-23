@@ -769,3 +769,9 @@ button .button-label {
     line-height: 1.44444rem;
     color: #101010;
 }
+
+.StepHTML {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
