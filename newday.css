@@ -755,6 +755,7 @@ button .button-label {
 /*STEP-BY-STEP PROCESS*/
 .step-content {
     text-align: center;
+    padding: 20px;
 }
 .step-title {
     font-weight: bold;
