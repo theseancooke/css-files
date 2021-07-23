@@ -751,3 +751,21 @@ button .button-label {
 .shareThis i {
     color: #e0e0e0;
 }
+
+/*STEP-BY-STEP PROCESS*/
+.step-content {
+    text-align: center;
+}
+.step-title {
+    font-weight: bold;
+    font-size: 1.11111rem;
+    color: #005696;
+    line-height: 1.66667rem;
+    margin-bottom: 15px;
+}
+
+.step-description {
+    font-size: 1rem;
+    line-height: 1.44444rem;
+    color: #101010;
+}
