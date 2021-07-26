@@ -64,7 +64,15 @@ html { font-size: 18px; !important }
 45deg
  , rgb(1 139 158) 0%, rgb(0 84 147) 100%);
     border-radius: 5px;
-    font-family: 'Jost', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700;
+}
+.secondaryNotes {
+    background: linear-gradient( 
+45deg
+ , rgb(44 191 82) 0%, rgb(1 158 42) 100%);
+    border-radius: 5px;
     color: #ffffff;
     font-size: 20px;
     font-weight: 700;
