@@ -143,13 +143,19 @@ html { font-size: 18px; !important }
     color: white;
 }
 .footerMenu_label {
-    margin-left: 16px;
+    margin-left: 6px;
     color: white;
-    font-size: 1.2em;
-    margin-bottom: 1em;
+    font-size: 11px;
+    margin-bottom: 14px;
 }
 .footerMenu a:hover{
     text-decoration: none;
+}
+.footer-headings {
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 14px;
 }
 /* End Sub Menues ---------------------------- */
 
