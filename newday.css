@@ -430,9 +430,9 @@ html { font-size: 18px; !important }
     visibility: hidden !important;
     display: none;
 }
-.checkme .custom-checkbox>input {
+/*.checkme .custom-checkbox>input {
     opacity: 1;
-}
+}*/
 .chromeit {
     border-radius: 6px !important;
     margin-top: 20px;
