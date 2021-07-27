@@ -194,11 +194,11 @@ html { font-size: 18px; !important }
     font-weight: 700;
     text-align: center;
 }
-/*.custom-control:hover {
+.custom-control:hover {
     background-color: #d3ebff;
     border-color: #005696;
 }
-.custom-control label:hover {
+/*.custom-control label:hover {
     background-color: #d3ebff;
     border-color: #005696;
 }*/
