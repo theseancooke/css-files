@@ -554,9 +554,9 @@ h1.postTitle {
     font-size: 16px;
     font-weight: 600;
 }
-.newsTabs a.active.nav-link {
+/*.newsTabs a.active.nav-link {
     font-size: 20px;
-}
+}*/
 .newsTabs li.nav-item a {
     border-left: none;
     border-top: none;
