@@ -143,9 +143,9 @@ html { font-size: 18px; !important }
     color: white;
 }
 .footerMenu_label {
-    margin-left: 6px;
+    margin-left: 0px;
     color: white;
-    font-size: 11px;
+    font-size: 7px;
     margin-bottom: 14px;
 }
 .footerMenu a:hover{
