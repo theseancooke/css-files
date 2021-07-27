@@ -632,6 +632,12 @@ h1.postTitle {
     background-size: cover;
     background-position: center;
 }
+
+.heroBannerImage-preview {
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+}
 .TemplateBannerImage {
     height: 450px;
     background-size: cover;
