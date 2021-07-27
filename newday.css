@@ -77,6 +77,7 @@ html { font-size: 18px; !important }
     font-size: 20px;
     font-weight: 700;
 }
+
 /* Sub Menus ------------------------------------------------------------------------------------------------------------ */
 .submenu .LinkWrapper a:hover {
     text-decoration: none !important;
@@ -133,6 +134,22 @@ html { font-size: 18px; !important }
 .orange .submenu_label:hover {
     background-color: cornsilk !important;
     color: coral;
+}
+.footerMenu .outer-container {
+    background-color: transparent !important;
+}
+.footerMenu_label {
+    margin-left: 16px;
+    color: white;
+}
+.footerMenu_label {
+    margin-left: 16px;
+    color: white;
+    font-size: 1.2em;
+    margin-bottom: 1em;
+}
+.footerMenu a:hover{
+    text-decoration: none;
 }
 /* End Sub Menues ---------------------------- */
 
