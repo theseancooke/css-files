@@ -139,14 +139,16 @@ html { font-size: 18px; !important }
     background-color: transparent !important;
 }
 .footerMenu_label {
-    margin-left: 16px;
-    color: white;
-}
-.footerMenu_label {
     margin-left: 0px;
     color: white;
     font-size: 16px;
     margin-bottom: 14px;
+}
+.smFooterMenu_label {
+    margin-left: 0px;
+    color: white;
+    font-size: 12px;
+    margin-bottom: 0px;
 }
 .footerMenu a:hover{
     text-decoration: none;
