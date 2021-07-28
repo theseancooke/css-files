@@ -448,6 +448,11 @@ html { font-size: 18px; !important }
 /* Eligibility Page END ----------------------------- */
 /* Editor Specfic Edits --------------------------------------------------------------------------------------- */
 
+.instructions {
+    background-color: lightgoldenrodyellow !important;
+    padding: 20px;
+    font-size: 1.5em;
+}
 .sendtoback {
     z-index: -100;
 }
