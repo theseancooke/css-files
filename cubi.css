@@ -136,6 +136,9 @@ button, .button-label {
 .selectedButton .btn {
     color: var(--primaryBlue);
 }
+.bigButtonContainer {
+    border-radius: 12px !important;
+}
 /* Header Row -------------------------------- */
 .HeroRow .breadcrumbs {
     font-size: 16px !important;
