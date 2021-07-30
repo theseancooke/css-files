@@ -93,12 +93,41 @@ button, .button-label {
 .whiteOnLight .btn:not(:disabled):not(.disabled).active:focus, .whiteOnLight .btn:not(:disabled):not(.disabled):active:focus, .whiteOnLight .show>.btn.dropdown-toggle:focus {
     box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important;
 }
+/* Big Buttons - Assistant*/
+.bigButton button, .bigButton .button-label {
+    font-weight: 800 !important;
+    font-size: 32px !important;
+    line-height: 1.313 !important;
+    border: 1px solid var(--neutralDark);
+}
+.bigButton .btn:not(:disabled):not(.disabled).active:focus, .bigButton .btn:not(:disabled):not(.disabled):active:focus, .bigButton .show>.btn.dropdown-toggle:focus {
+    box-shadow: none;
+}
+.bigButton .btn {
+    border-radius: 12px;
+}
+.bigButton .btn {
+    background-color: var(--primaryWhite);
+    border: 1px solid var(--neutralDark);
+    color: var(--neutralDark);
+}
+.bigButton .btn:hover {
+    background-color: #E8EFF6;
+}
+.bigButton .btn:not(:disabled):not(.disabled).active, .bigButton .btn:not(:disabled):not(.disabled):active {
+    background-color: var(--primaryWhite) !important;
+}
+.blueButton .btn.focus, .blueButton .btn:focus {
+    box-shadow: rgba(0, 82, 155, 0.24) 0px 10px 16px 0px !important;
+}
+.blueButton .btn:not(:disabled):not(.disabled).active:focus, .blueButton .btn:not(:disabled):not(.disabled):active:focus, .blueButton .show>.btn.dropdown-toggle:focus {
+    box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important;
+}
 /* Header Row -------------------------------- */
 .HeroRow .breadcrumbs {
     font-size: 16px !important;
     font-weight: 700;
     color: var(--primaryBlue);
-    text-transform: uppercase;
 }
 .greyText {
     color: #767676;
