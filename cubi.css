@@ -17,70 +17,75 @@ h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     font-family: 'Open Sans', sans-serif;
 }
 
-/* Buttons ----------------------------------- */
-button {
-    border-radius: 8px !important;
-    text-decoration: none !important;
-    border: none !important;
-}
-.button-label {
-    font-size: 16px !important;
+/* BUTTONS ----------------------------------- */
+/* All Buttons */
+button, .button-label {
     font-weight: 700;
-    letter-spacing: -0.2px;
+    font-size: 16px;
     line-height: 1.5;
-    text-decoration: none !important;
+    letter-spacing: -0.2px;
 }
-.blueBtn button {
+.btn:not(:disabled):not(.disabled).active:focus, .btn:not(:disabled):not(.disabled):active:focus, .show>.btn.dropdown-toggle:focus {
+    box-shadow: none;
+}
+.Button {
+    height: 48px;
+}
+.btn {
+    border-radius: 8px;
+}
+
+/* Blue Buttons */
+.blueButton .btn {
     background-color: var(--primaryBlue);
+    border: none !important;
+    color: var(--primaryWhite);
 }
-.blueBtn button:hover {
-    background-color: var(--primaryBlueHover);
+.blueButton .btn:hover {
+    background-color: #0064BC;
 }
-.blueBtn button:focus {
-    background-color: var(--primaryBlue);
+.blueButton .btn:not(:disabled):not(.disabled).active, .blueButton .btn:not(:disabled):not(.disabled):active {
+    background-color: var(--primaryBlue) !important;
 }
-.blueBtn button:active {
-    background-color: var(--primaryBlueActive) !important;
-}   
-.blueBtn .button-label {
-    color: #fff;
+.blueButton .btn.focus, .blueButton .btn:focus {
+    background-color: #00315D !important;
 }
-.whiteBtn button {
-    background-color: var(--primaryWhite);
+.blueButton .btn:not(:disabled):not(.disabled).active:focus, .blueButton .btn:not(:disabled):not(.disabled):active:focus, .blueButton .show>.btn.dropdown-toggle:focus {
+    border: none !important;
+    box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important;
 }
-.blueBtn button:hover {
-    background-color: var(--primaryBlueHover);
+.blueButton .btn.disabled, .blueButton .btn:disabled {
+    background-color: var(--neutralLight);
+    color: var(--neutralMedium);
+    border: none !important;
+    opacity: 1 !important;
 }
-.whiteBtn>button:hover, .whiteBtn-graytext>button:hover {
-    background-color: var(--lightSurface);
-}
-.whiteBtn .button-label {
+
+/* White Buttons */
+.whiteButton .btn {
+    background-color: #FEFEFE;
+    border: none !important;
     color: var(--primaryBlue);
 }
-.whiteBtn>button:hover .button-label, .whiteBtn-graytext>button:hover .button-label {
-    color: var(--mainHover);
+.whiteButton .btn:hover {
+    background-color: #E8EFF6;
 }
-
-.whiteBtn-graytext .button-label {
-    color: #767676 !important;
+.whiteButton .btn:not(:disabled):not(.disabled).active, .whiteButton .btn:not(:disabled):not(.disabled):active {
+    background-color: #FEFEFE !important;
+    color: var(--primaryBlue) !important;
 }
-
-.clearBtn {
-    min-height: 48px !important;
+.whiteButton .btn.focus, .whiteButton .btn:focus {
+    background-color: #B4BEC7 !important;
 }
-
-.clearBtn .btn-primary {
-    height: 48px !important;
-    border-radius: 8px !important;
-    border: 2px solid #00529B !important;
-    background-color: #ffffff !important;
-    color: #00529B !important;
+.whiteButton .btn:not(:disabled):not(.disabled).active:focus, .whiteButton .btn:not(:disabled):not(.disabled):active:focus, .whiteButton .show>.btn.dropdown-toggle:focus {
+    border: none !important;
+    box-shadow: 0 0 0 2px var(--primaryBlue), 0 0 0 4px var(--primaryRed) !important;
 }
-
-.clearBtn .button-label {
-    color: #00529B !important;
-    font-weight: bold !important;
-    font-size: 16px !important;
+.whiteButton .btn.disabled, .whiteButton .btn:disabled {
+    background-color: rgba(254, 254, 254, 0.25) !important;
+    color: var(--primaryBlue);
+    border: none !important;
+    opacity: 1 !important;
 }
 
 /* Header Row -------------------------------- */
