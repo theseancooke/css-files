@@ -117,10 +117,10 @@ button, .button-label {
 .bigButton .btn:not(:disabled):not(.disabled).active, .bigButton .btn:not(:disabled):not(.disabled):active {
     background-color: var(--primaryWhite) !important;
 }
-.blueButton .btn.focus, .blueButton .btn:focus {
+.bigButton .btn.focus, .bigButton .btn:focus {
     box-shadow: rgba(0, 82, 155, 0.24) 0px 10px 16px 0px !important;
 }
-.blueButton .btn:not(:disabled):not(.disabled).active:focus, .blueButton .btn:not(:disabled):not(.disabled):active:focus, .blueButton .show>.btn.dropdown-toggle:focus {
+.bigButton .btn:not(:disabled):not(.disabled).active:focus, .bigButton .btn:not(:disabled):not(.disabled):active:focus, .bigButton .show>.btn.dropdown-toggle:focus {
     box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important;
 }
 /* Header Row -------------------------------- */
