@@ -138,6 +138,7 @@ button, .button-label {
 }
 .bigButtonContainer {
     border-radius: 12px !important;
+    border: 1px solid var(--neutralDark) !important;
 }
 /* Header Row -------------------------------- */
 .HeroRow .breadcrumbs {
