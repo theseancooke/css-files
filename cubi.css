@@ -108,7 +108,7 @@ button, .button-label {
 }
 .bigButton .btn {
     background-color: var(--primaryWhite);
-    border: 1px solid var(--neutralDark);
+    border: 1px solid var(--neutralDark) !important;
     color: var(--neutralDark);
 }
 .bigButton .btn:hover {
