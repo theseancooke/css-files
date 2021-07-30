@@ -112,7 +112,7 @@ button, .button-label {
     border-radius: 12px;
 }
 .bigButton .btn:hover, .bigButtonContainer:hover {
-    background-color: #E8EFF6;
+    background-color: #E8EFF6 !important;
 }
 .bigButton .btn:not(:disabled):not(.disabled).active, .bigButton .btn:not(:disabled):not(.disabled):active {
     background-color: var(--primaryWhite) !important;
