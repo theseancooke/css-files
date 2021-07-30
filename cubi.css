@@ -105,13 +105,11 @@ button, .button-label {
 .bigButton .btn:not(:disabled):not(.disabled).active:focus, .bigButton .btn:not(:disabled):not(.disabled):active:focus, .bigButton .show>.btn.dropdown-toggle:focus {
     box-shadow: none;
 }
-.bigButton .btn {
-    border-radius: 12px;
-}
-.bigButton .btn {
+.bigButton .btn, .bigButton {
     background-color: var(--primaryWhite);
     border: 1px solid var(--neutralDark) !important;
     color: var(--neutralDark);
+    border-radius: 12px;
 }
 .bigButton .btn:hover {
     background-color: #E8EFF6;
