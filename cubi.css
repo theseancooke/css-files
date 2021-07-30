@@ -126,8 +126,8 @@ button, .button-label {
     box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important;
     color: var(--primaryBlue) !important;
 }
-.bigButtonContainer:focus {
-    outline: 2px auto rgba(19,124,189,0);
+.bigButtonContainer:active {
+    outline: none;
     box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important;
 }
 .selectedButton {
