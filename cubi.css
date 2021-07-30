@@ -105,13 +105,13 @@ button, .button-label {
 .bigButton .btn:not(:disabled):not(.disabled).active:focus, .bigButton .btn:not(:disabled):not(.disabled):active:focus, .bigButton .show>.btn.dropdown-toggle:focus {
     box-shadow: none;
 }
-.bigButton .btn, .bigButton {
+.bigButton .btn, .bigButtonContainer {
     background-color: var(--primaryWhite);
     border: 1px solid var(--neutralDark) !important;
     color: var(--neutralDark);
     border-radius: 12px;
 }
-.bigButton .btn:hover {
+.bigButton .btn:hover, .bigButtonContainer:hover {
     background-color: #E8EFF6;
 }
 .bigButton .btn:not(:disabled):not(.disabled).active, .bigButton .btn:not(:disabled):not(.disabled):active {
@@ -135,10 +135,6 @@ button, .button-label {
 }
 .selectedButton .btn {
     color: var(--primaryBlue);
-}
-
-.bigButton .styled.outer-container {
-    border-radius: 12px !important;
 }
 /* Header Row -------------------------------- */
 .HeroRow .breadcrumbs {
