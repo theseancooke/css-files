@@ -105,7 +105,7 @@ button, .button-label {
 .bigButton .btn:not(:disabled):not(.disabled).active:focus, .bigButton .btn:not(:disabled):not(.disabled):active:focus, .bigButton .show>.btn.dropdown-toggle:focus {
     box-shadow: none;
 }
-.bigButton .btn, .bigButtonContainer, .bigButtonContainer .styled.outer-container {
+.bigButton .btn, .bigButtonContainer .styled.outer-container {
     background-color: var(--primaryWhite);
     border: 1px solid var(--neutralDark) !important;
     color: var(--neutralDark);
