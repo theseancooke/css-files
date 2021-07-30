@@ -87,10 +87,10 @@ button, .button-label {
     opacity: 1 !important;
 }
 /* White Buttons - Focus outline color change dependent on the surface it exists on. */
-.whiteOnDark .btn:not(:disabled):not(.disabled).active:focus, .whiteButton .btn:not(:disabled):not(.disabled):active:focus, .whiteButton .show>.btn.dropdown-toggle:focus {
+.whiteOnDark .btn:not(:disabled):not(.disabled).active:focus, .whiteOnDark .btn:not(:disabled):not(.disabled):active:focus, .whiteOnDark .show>.btn.dropdown-toggle:focus {
     box-shadow: 0 0 0 2px var(--primaryBlue), 0 0 0 4px var(--primaryRed) !important;
 }
-.whiteOnLight .btn:not(:disabled):not(.disabled).active:focus, .whiteButton .btn:not(:disabled):not(.disabled):active:focus, .whiteButton .show>.btn.dropdown-toggle:focus {
+.whiteOnLight .btn:not(:disabled):not(.disabled).active:focus, .whiteOnLight .btn:not(:disabled):not(.disabled):active:focus, .whiteOnLight .show>.btn.dropdown-toggle:focus {
     box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important;
 }
 /* Header Row -------------------------------- */
