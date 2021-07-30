@@ -94,11 +94,13 @@ button, .button-label {
     box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important;
 }
 /* Big Buttons - Assistant*/
+.bigButton button {
+    border: 1px solid var(--neutralDark);
+}
 .bigButton button, .bigButton .button-label {
     font-weight: 800 !important;
     font-size: 32px !important;
     line-height: 1.313 !important;
-    border: 1px solid var(--neutralDark);
 }
 .bigButton .btn:not(:disabled):not(.disabled).active:focus, .bigButton .btn:not(:disabled):not(.disabled):active:focus, .bigButton .show>.btn.dropdown-toggle:focus {
     box-shadow: none;
