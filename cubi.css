@@ -128,6 +128,9 @@ button, .button-label {
     box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important;
     color: var(--neutralDark) !important;
 }
+.bigButton .selectedButton {
+    box-shadow: rgba(0, 82, 155, 0.24) 0px 10px 16px 0px !important;
+}
 /* Header Row -------------------------------- */
 .HeroRow .breadcrumbs {
     font-size: 16px !important;
