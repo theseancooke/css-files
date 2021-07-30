@@ -130,8 +130,9 @@ button, .button-label {
 }
 .selectedButton {
     box-shadow: rgba(0, 82, 155, 0.24) 0px 10px 16px 0px !important;
+}
+.selectedButton .btn.focus, .selectedButton .btn:focus, .selectedButton .btn {
     border: 4px solid var(--primaryBlue) !important;
-    border-radius: 12px !important;
 }
 /* Header Row -------------------------------- */
 .HeroRow .breadcrumbs {
