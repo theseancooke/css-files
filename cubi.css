@@ -33,6 +33,7 @@ button, .button-label {
 }
 .btn {
     border-radius: 8px;
+    text-decoration: none !important;
 }
 
 /* Blue Buttons */
