@@ -333,7 +333,7 @@ html { font-size: 18px; !important }
     cursor: pointer;
 }
 .pill-one h3 {
-        color: #FF7E01;
+        color: #0071CE;
 }
 .pill-two h3 {
     color: #008B9E;
@@ -352,15 +352,20 @@ html { font-size: 18px; !important }
         font-family: Fjalla One;
 
 }
+
+.button-blue {
+    background-color: #0071CE !important;
+    border-color: #0071CE;
+}
 .button-orange {
-    background-color: #FF7E01 !important;
-    border-color: #FF7E01;
+    background-color: #E4752B !important;
+    border-color: #E4752B;
 }
 .button-aqua {
     background-color: #008B9E !important;
     border-color: #008B9E;
 }
-.button-orange, .button-aqua {
+.button-orange, .button-aqua, .button-blue {
     display: inline-block;
     border-radius: 40px;
     border-style: solid;
