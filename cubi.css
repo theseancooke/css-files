@@ -56,7 +56,7 @@ button, .button-label {
     box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important;
 }
 .blueButton .btn.disabled, .blueButton .btn:disabled {
-    background-color: rgba(var(--primaryBlue), 0.25);
+    background-color: rgba(0,82,155,0.25);
     color: var(--primaryWhite);
     border: none !important;
     opacity: 1 !important;
