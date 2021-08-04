@@ -368,7 +368,6 @@ html { font-size: 18px; !important }
 .button-orange, .button-aqua, .button-blue {
     display: inline-block;
     border-radius: 40px;
-    border-style: solid;
     text-decoration: none;
     transition: 0.2s;
     width: 250px;
@@ -379,6 +378,7 @@ html { font-size: 18px; !important }
     text-align: center !important;
     vertical-align: middle !important;
     font-size: 1.1rem;
+    font-weight: bold;
     font-family: Roboto;
     color: white;
 }
