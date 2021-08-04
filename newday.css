@@ -378,8 +378,7 @@ html { font-size: 18px; !important }
 .button-label span {
     text-align: center !important;
     vertical-align: middle !important;
-    margin-top: 2px;
-    font-size: 1.7em;
+    font-size: 1.1rem;
     font-family: Roboto;
     color: white;
 }
