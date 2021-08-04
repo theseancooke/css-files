@@ -340,12 +340,12 @@ html { font-size: 18px; !important }
 }
 .pill-one h3, .pill-two h3 {
     text-align: center !important;
-    font-size: 2em;
+    font-size: 1.4rem;
     font-weight: 600;
     margin-bottom: 0.8rem;
 }
 .pill-one p, .pill-two p {
-    font-size: 1.9em;
+    font-size: 1.6rem;
     line-height: 1.3em;
     margin-bottom: 1.1rem;
     text-align: center !important;
