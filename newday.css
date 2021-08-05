@@ -147,7 +147,7 @@ html { font-size: 18px; !important }
 .smFooterMenu_label {
     margin-left: 0px;
     color: white;
-    font-size: 12px;
+    font-size: 0.66667rem;
     margin-bottom: 0px;
 }
 .footerMenu a:hover{
