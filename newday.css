@@ -584,6 +584,16 @@ h1.postTitle {
 .postText p {
     margin-bottom: 1.5em;
 }
+.white .postCard .postImage {
+    background-color: #fff;
+    border: 2px solid #adadad;
+}
+.white .postCategory {
+    color: #0378d5;
+}
+.white .postCard .postTitle {
+    color: #182026;
+}
 .newsTabs li.nav-item {
     font-size: 16px;
     font-weight: 600;
