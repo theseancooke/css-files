@@ -453,7 +453,9 @@ html { font-size: 18px; !important }
 /* Editor Specfic Edits --------------------------------------------------------------------------------------- */
 
 .instructions {
-    background-color: lightgoldenrodyellow !important;
+    background-color: #fefde6 !important;
+    border: 2px solid #f5a800;
+    border-radius: 8px;
     padding: 20px;
     font-size: 1.5em;
 }
