@@ -458,6 +458,11 @@ html { font-size: 18px; !important }
     border-radius: 8px;
     padding: 20px;
     font-size: 1.5em;
+    color: black;
+}
+.instructions-emphasized {
+    color: #f5a800;
+    font-weight: 700;
 }
 .sendtoback {
     z-index: -100;
