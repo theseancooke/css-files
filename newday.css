@@ -642,8 +642,25 @@ h1.postTitle {
     margin-top: 30px;
     margin-bottom: 30px;
 }
-
 /* Resources and Posts End --------------------------- */
+
+/* Loan Comparison ------------------------ */
+.blueHeader h5 {
+    text-transform: uppercase;
+    color: #0378d5;
+    font-weight: 700;
+    font-size: 1.8rem;
+}
+span.bold_blue {
+    color: #005696;
+    font-weight: 500;
+}
+.blackSubheader {
+    font-weight: 300;
+    margin-top: 7px;
+}
+/* Loan Comparison End --------------------------- */
+
 /* Template Components Migratied to Theme ------------
 .ctaText {
     position: relative;
