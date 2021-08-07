@@ -49,9 +49,11 @@ html { font-size: 18px; !important }
     display: block !important;
 }
 
+/*
 .Container, .Pie, .Bar, .Label, .label-container {
       background-color: #ffffff00 !important;
 }
+*/
 .fpoText {
       font-family: Fjalla One, sans-serif;
     color: #fff;
