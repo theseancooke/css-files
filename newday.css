@@ -492,9 +492,10 @@ html { font-size: 18px; !important }
 .editor .heroImage {
     height: 400px;
 }
+/* disabled to set preview content sizes for editor.
 .editor div {
     font-size: 1rem !important;
-}
+}*/
 .edit_bioImage {
     height: 220px;
     background-size: cover;
