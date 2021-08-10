@@ -79,6 +79,9 @@ html { font-size: 18px; !important }
     font-size: 20px;
     font-weight: 700;
 }
+.repeatContainer .outer-container {
+    background-color: transparent !important;
+}
 
 /* Sub Menus ------------------------------------------------------------------------------------------------------------ */
 .submenu .LinkWrapper a:hover {
