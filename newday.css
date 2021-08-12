@@ -172,6 +172,13 @@ html { font-size: 18px; !important }
     box-shadow: 0 3px 46px 0 rgb(0 0 0 / 13%);
     background-color: #ffffff;
 }
+
+.floating_container .Label {
+    color: #005696;
+    font-size: 1.33333rem;
+    line-height: 1.77778rem;
+    font-weight: 700;
+}
 /* End Floating Container ------------------------------------------------------------------------------------------------ */
 
 /* "Get Started" Wizard -------------------------------------------------------------------------------------------------- */
