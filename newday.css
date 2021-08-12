@@ -166,6 +166,14 @@ html { font-size: 18px; !important }
 }
 /* End Sub Menues ---------------------------- */
 
+/* Floating Container ---------------------------------------------------------------------------------------------------- */
+.floating_container .outer-container {
+    border-radius: 77px;
+    box-shadow: 0 3px 46px 0 rgb(0 0 0 / 13%);
+    background-color: #ffffff;
+}
+/* End Floating Container ------------------------------------------------------------------------------------------------ */
+
 /* "Get Started" Wizard -------------------------------------------------------------------------------------------------- */
 .Wizard .label-container {
     display: block;
