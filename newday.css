@@ -329,6 +329,10 @@ html { font-size: 18px; !important }
     color: #F5A800;
 }
 
+.homeHeroCTA a {
+    color: #F5A800 !important;
+}
+
 .featureRow li {
     list-style: disc;
     margin-left: 1em;
