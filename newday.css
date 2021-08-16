@@ -385,6 +385,9 @@ html { font-size: 18px; !important }
     background-color: #E4752B !important;
     border-color: #E4752B;
 }
+.button-orange Button:hover {
+    border-color: #DF5A11 !important;
+}
 .button-aqua {
     background-color: #008B9E !important;
     border-color: #008B9E;
