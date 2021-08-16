@@ -65,8 +65,11 @@ button, .button-label {
 /* White Buttons */
 .whiteButton .btn {
     background-color: #FEFEFE;
-    border: none !important;
+    border: none;
     color: var(--primaryBlue);
+}
+.whiteButton-border .btn {
+    border: 2px solid var(--primaryBlue) !important;
 }
 .whiteButton .btn:hover {
     background-color: #E8EFF6;
