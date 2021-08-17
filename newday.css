@@ -810,6 +810,10 @@ span.bold_blue {
     color: #101010;
 }
 
+.thePar p {
+    margin-bottom: 1.5rem;
+}
+
 .thePar ul {
     list-style: disc;
     padding-left: 20px;
