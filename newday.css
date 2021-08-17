@@ -810,6 +810,11 @@ span.bold_blue {
     color: #101010;
 }
 
+.thePar ul {
+    list-style: disc;
+    padding-left: 20px;
+}
+
 .testimonialContainer {
     background-color: #0378d5 !important;
 }
