@@ -814,6 +814,9 @@ span.bold_blue {
     list-style: disc;
     padding-left: 20px;
 }
+.thePar::marker {
+    color: #0378d5;
+}
 
 .testimonialContainer {
     background-color: #0378d5 !important;
