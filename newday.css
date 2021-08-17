@@ -814,7 +814,7 @@ span.bold_blue {
     list-style: disc;
     padding-left: 20px;
 }
-.thePar::marker {
+.thePar ::marker {
     color: #0378d5;
 }
 
