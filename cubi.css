@@ -146,6 +146,10 @@ button, .button-label {
 .bigButtonContainer:active {
     outline: none;
 }
+.bigButtonContainer:focus {
+    box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important;
+    outline: none !important;
+}
 .selectedButton {
     box-shadow: rgba(0, 82, 155, 0.24) 0px 10px 16px 0px !important;
     border-radius: 12px !important;
