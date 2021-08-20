@@ -81,6 +81,7 @@ button, .button-label {
 }
 .whiteButton .btn.focus, .whiteButton .btn:focus {
     background-color: #B4BEC7 !important;
+    box-shadow: 0 0 0 2px var(--primaryBlue), 0 0 0 4px var(--primaryRed) !important;
 }
 .whiteButton .btn:not(:disabled):not(.disabled).active:focus, .whiteButton .btn:not(:disabled):not(.disabled):active:focus, .whiteButton .show>.btn.dropdown-toggle:focus {
     border: none !important;
@@ -91,12 +92,12 @@ button, .button-label {
     border: none !important;
     opacity: 1 !important;
 }
-/* White Buttons - Focus outline color change dependent on the surface it exists on. */
+/* White Buttons - Focus outline color change dependent on the surface it exists on.
 .whiteOnDark .btn:not(:disabled):not(.disabled).active:focus, .whiteOnDark .btn:not(:disabled):not(.disabled):active:focus, .whiteOnDark .show>.btn.dropdown-toggle:focus {
     box-shadow: 0 0 0 2px var(--primaryBlue), 0 0 0 4px var(--primaryRed) !important;
 }
 .whiteOnLight .btn:not(:disabled):not(.disabled).active:focus, .whiteOnLight .btn:not(:disabled):not(.disabled):active:focus, .whiteOnLight .show>.btn.dropdown-toggle:focus {
-    box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important;
+    box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important;*/
 }
 /* Big Buttons - Assistant*/
 .bigButton button {
