@@ -83,7 +83,7 @@ button, .button-label {
     background-color: #FEFEFE !important;
     color: var(--primaryBlue) !important;
 }
-.whiteButton .btn.focus, .whiteButton .btn:focus {
+.whiteButton .btn.focus, .whiteButton .btn:focus, .whiteButtonOnDark .btn.focus, .whiteButtonOnDark .btn:focus {
     background-color: #B4BEC7 !important;
     box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important;
 }
