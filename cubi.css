@@ -120,6 +120,7 @@ button, .button-label {
 }
 .bigButton .btn:not(:disabled):not(.disabled).active:focus, .bigButton .btn:not(:disabled):not(.disabled):active:focus, .bigButton .show>.btn.dropdown-toggle:focus {
     box-shadow: none;
+    box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important;
 }
 .bigButton .btn, .bigButtonContainer .styled.outer-container {
     background-color: var(--primaryWhite);
