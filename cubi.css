@@ -80,16 +80,16 @@ button, .button-label {
     background-color: #E8EFF6;
 }
 .whiteButton .btn:not(:disabled):not(.disabled).active, .whiteButton .btn:not(:disabled):not(.disabled):active {
-    background-color: #FEFEFE !important;
+    background-color: #B4BEC7 !important;
     color: var(--primaryBlue) !important;
 }
 .whiteButton .btn.focus, .whiteButton .btn:focus {
-    background-color: #B4BEC7 !important;
+    background-color: #FEFEFE !important;
     box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed);
 }
 
 .whiteButtonOnDark .btn.focus, .whiteButtonOnDark .btn:focus {
-    background-color: #B4BEC7 !important;
+    background-color: #FEFEFE !important;
     box-shadow: 0 0 0 2px var(--primaryBlue), 0 0 0 4px var(--primaryRed) !important;
 }
 
