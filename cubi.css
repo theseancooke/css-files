@@ -49,11 +49,11 @@ button, .button-label {
     background-color: var(--primaryBlue) !important;
 }
 .blueButton .btn.focus, .blueButton .btn:focus {
-    background-color: #00315D !important;
+    box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important;
 }
 .blueButton .btn:not(:disabled):not(.disabled).active:focus, .blueButton .btn:not(:disabled):not(.disabled):active:focus, .blueButton .show>.btn.dropdown-toggle:focus {
     border: none !important;
-    box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important;
+    background-color: #00315D !important;
 }
 .blueButton .btn.disabled, .blueButton .btn:disabled {
     background-color: rgba(0,82,155,0.25);
