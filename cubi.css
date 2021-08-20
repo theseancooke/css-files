@@ -54,6 +54,7 @@ button, .button-label {
 .blueButton .btn:not(:disabled):not(.disabled).active:focus, .blueButton .btn:not(:disabled):not(.disabled):active:focus, .blueButton .show>.btn.dropdown-toggle:focus {
     border: none !important;
     background-color: #00315D !important;
+    box-shadow: none !important;
 }
 .blueButton .btn.disabled, .blueButton .btn:disabled {
     background-color: rgba(0,82,155,0.25);
