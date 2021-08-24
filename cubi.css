@@ -448,7 +448,7 @@ button, .button-label {
 }
 
 .question_box .outer-container, .question_box .inner-container {
-    height: 96px;
+    height: 96px !important;
 }
     
 /* Footer Row -------------------------------- */
