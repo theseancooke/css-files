@@ -434,6 +434,14 @@ button, .button-label {
     letter-spacing: -0.2px;
     text-align: center !important;
 }
+
+/* Account Activity -------------------------------- */
+.question_box {
+    border-radius: 12px;
+    background-color: var(--primaryWhite);
+    border: 1px solid var(--neutralMedium);
+    height: 96px !important;
+}
     
 /* Footer Row -------------------------------- */
 .footerRow {
