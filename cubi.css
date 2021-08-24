@@ -445,6 +445,7 @@ button, .button-label {
 
 .question_box .toggle-container {
     justify-content: center !important;
+    height: 96px; 
 }
 
 .question_box .outer-container, .question_box .inner-container {
