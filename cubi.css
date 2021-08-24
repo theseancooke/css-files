@@ -442,6 +442,14 @@ button, .button-label {
     border: 1px solid var(--neutralMedium);
     height: 96px !important;
 }
+
+.question_box .toggle-container {
+    justify-content: center;
+}
+
+.question_box .outer-container, .question_box .outer-container {
+    height: 96px;
+}
     
 /* Footer Row -------------------------------- */
 .footerRow {
