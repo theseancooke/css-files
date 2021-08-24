@@ -440,10 +440,16 @@ button, .button-label {
     border-radius: 12px;
     background-color: var(--primaryWhite) !important;
     border: 1px solid var(--neutralMedium);
+    height: 96px !important;
 }
 
 .question_box .toggle-container .outer-container {
     justify-content: center !important;
+    height: 96px !important;
+}
+
+.question_box .Label {
+    height: 96px !important;
 }
     
 /* Footer Row -------------------------------- */
