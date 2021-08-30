@@ -647,6 +647,14 @@ h1.postTitle {
     border-right: 1px solid #e0e0e0 !important;
     text-transform: uppercase;
 }
+
+.newsTabs > div > ul > li:nth-child(1) > a > label {
+    line-height: 1rem;
+}
+
+.newsTabs .nav-link {
+    padding: 0 1rem !important;
+}
 .newsTabs li.nav-item a {
     border-left: none;
     border-top: none;
@@ -666,7 +674,7 @@ h1.postTitle {
     border-left: none;
     border-top: none;
     border-bottom: none;
-    border-right: 1px solid;
+    border-right: 1px solid #e0e0e0;
     border-radius: 0;
 }
 .newsTitle {
