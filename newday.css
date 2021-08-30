@@ -577,18 +577,6 @@ html { font-size: 18px; !important }
     position: relative;
     z-index: 100;
 }
-
-.postCard .postTitle:after {
-        content: "";
-    display: inline-block;
-    background-image: url(https://www.newdayusa.com/Content/images/icon--card-arrow.svg);
-    width: 18px;
-    height: 10px;
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    transition: 0.2s;
-}
 .postCard .postTitle.news {
     top: -140px;
     position: relative;
