@@ -641,10 +641,12 @@ h1.postTitle {
 .newsTabs li.nav-item {
     font-size: 16px;
     font-weight: 600;
+    text-transform: uppercase;
 }
-/*.newsTabs a.active.nav-link {
-    font-size: 20px;
-}*/
+.newsTabs a.active.nav-link {
+    border-right: 1px solid #e0e0e0;
+    text-transform: uppercase;
+}
 .newsTabs li.nav-item a {
     border-left: none;
     border-top: none;
