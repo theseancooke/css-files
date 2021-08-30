@@ -654,7 +654,7 @@ h1.postTitle {
     border-left: none;
     border-top: none;
     border-bottom: none;
-    border-right: 1px solid;
+    border-right: 1px solid #e0e0e0;
     border-radius: 0;
 }
 .newsTabs li.nav-item:last-child a {
