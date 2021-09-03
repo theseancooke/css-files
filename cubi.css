@@ -136,7 +136,7 @@ button, .button-label {
     color: var(--neutralDark);
     border-radius: 12px;
 }
-.bigButton .btn:hover, .bigButtonContainer:hover {
+.bigButton .btn:hover {
     background-color: #E8EFF6 !important;
 }
 .bigButton .btn:not(:disabled):not(.disabled).active, .bigButton .btn:not(:disabled):not(.disabled):active {
@@ -177,13 +177,26 @@ button, .button-label {
 }
 */
 .bigButtonContainer {
-  background-color: var(--primaryWhite);
+  padding: 50px;
+  background-color: white;
   transition: transform .2s;
   width: 200px;
   height: 200px;
+  margin: 0 auto;
   border-radius: 12px;
-  border: 1px solid var(--neutralDark);
+  border: 1px solid #767676;
+  -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
 }
+.bigButtonContainer:hover {
+    -ms-transform: scale(1.05); /* IE 9 */
+  -webkit-transform: scale(1.05); /* Safari 3-8 */
+  transform: scale(1.05);
+  background-color: #E8EFF6;
+}
+
 .selectedBigButtonContainer .btn.focus, .selectedBigButtonContainer .btn:focus, .selectedBigButtonContainer .btn {
     border: 4px solid var(--primaryBlue) !important;
 }
