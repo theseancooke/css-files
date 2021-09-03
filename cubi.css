@@ -179,6 +179,7 @@ button, .button-label {
 .bigButtonContainer:hover {
   transform: scale(1.05) perspective(1px);
   background-color: #E8EFF6 !important;
+}
 /*
 .bigButtonContainer:active {
     border: 4px solid var(--primaryBlue) !important;
