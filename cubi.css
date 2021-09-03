@@ -169,15 +169,11 @@ button, .button-label {
 }
 .bigButtonContainer {
   background-color: var(--primaryWhite);
-  transition: transform .2s;
+  transition: transform .1s;
   width: 200px;
   height: 200px;
   border-radius: 12px;
   border: 1px solid #767676;
-  -moz-transition: all .2s ease-in;
-    -o-transition: all .2s ease-in;
-    -webkit-transition: all .2s ease-in;
-    transition: all .2s ease-in;
 }
 .bigButtonContainer:hover {
     -ms-transform: scale(1.05); /* IE 9 */
