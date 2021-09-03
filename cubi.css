@@ -198,6 +198,13 @@ button, .button-label {
 }
 .bigButtonContainer:active {
     border: 4px solid var(--primaryBlue) !important;
+    -ms-transform: scale(1); /* IE 9 */
+    -webkit-transform: scale(1); /* Safari 3-8 */
+    transform: scale(1);
+    -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
 }
 
 .selectedBigButtonContainer .btn.focus, .selectedBigButtonContainer .btn:focus, .selectedBigButtonContainer .btn {
