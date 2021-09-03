@@ -85,12 +85,13 @@ button, .button-label {
 }
 .whiteButton .btn.focus, .whiteButton .btn:focus {
     background-color: #FEFEFE !important;
-    box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed);
+    
+    /* box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed); */
 }
 
 .whiteButtonOnDark .btn.focus, .whiteButtonOnDark .btn:focus {
     background-color: #FEFEFE !important;
-    box-shadow: 0 0 0 2px var(--primaryBlue), 0 0 0 4px var(--primaryRed) !important;
+   /* box-shadow: 0 0 0 2px var(--primaryBlue), 0 0 0 4px var(--primaryRed) !important; */
 }
 
 .whiteButton .btn:not(:disabled):not(.disabled).active:focus, .whiteButton .btn:not(:disabled):not(.disabled):active:focus, .whiteButton .show>.btn.dropdown-toggle:focus {
@@ -138,7 +139,7 @@ button, .button-label {
 }
 .bigButton .btn.focus, .bigButton .btn:focus {
     color: var(--primaryBlue) !important;
-    box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important;
+    /* box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important; */
 }
 .bigButton .btn:not(:disabled):not(.disabled).active:focus, .bigButton .btn:not(:disabled):not(.disabled):active:focus, .bigButton .show>.btn.dropdown-toggle:focus {
     color: var(--primaryBlue) !important;
@@ -179,9 +180,6 @@ button, .button-label {
 .bigButtonContainer:hover {
   transform: scale(1.04);
   background-color: #E8EFF6 !important;
-}
-.bigButtonContainer:focus {
-  box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important;
 }
 .bigButtonContainer:active {
     border: 4px solid var(--primaryBlue) !important;
