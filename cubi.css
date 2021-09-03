@@ -169,15 +169,15 @@ button, .button-label {
 }
 .bigButtonContainer {
   background-color: var(--primaryWhite);
-  transition: transform .1s;
+  transition: transform .3s;
   width: 200px;
   height: 200px;
   border-radius: 12px;
   border: 1px solid #767676;
-    -moz-transition: all .1s ease-in;
-    -o-transition: all .1s ease-in;
-    -webkit-transition: all .1s ease-in;
-    transition: all .1s ease-in;
+    -moz-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    transition: all .3s ease-in;
 }
 .bigButtonContainer:hover {
     -ms-transform: scale(1.05); /* IE 9 */
