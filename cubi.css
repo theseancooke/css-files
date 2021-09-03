@@ -175,7 +175,6 @@ button, .button-label {
   border: 1px solid #767676;
   transition: all .4s ease;
   transform: scale(1);
-  color: var(--neutralDark) !important;
 }
 .bigButtonContainer:hover {
   transform: scale(1.04);
@@ -188,10 +187,10 @@ button, .button-label {
     transform: scale(1.04);
 }
 
-.bigButtonContainer .centerIcon {
+.bigButtonContainer .centerIcon, .bigButtonContainer .Label {
     color: var(--neutralDark) !important;
 }
-.selectedBigButtonContainer .centerIcon {
+.selectedBigButtonContainer .centerIcon, .selectedBigButtonContainer .Label {
     color: var(--primaryBlue) !important;
 }
 
@@ -204,7 +203,6 @@ button, .button-label {
     height: 200px;
     transition: all .2s ease;
     transform: scale(1);
-    color: var(--primaryBlue) !important;
 }
 
 /*
