@@ -179,7 +179,7 @@ button, .button-label {
 }
 */
 .bigButtonContainer {
-  background-color: white;
+  background-color: var(--primaryWhite);
   transition: transform .2s;
   width: 200px;
   height: 200px;
@@ -206,6 +206,7 @@ button, .button-label {
     -webkit-transition: all .2s ease-in;
     transition: all .2s ease-in;
     box-shadow: rgba(0, 82, 155, 0.24) 0px 10px 16px 0px !important;
+    background-color: var(--primaryWhite) !important;
 }
 
 .selectedBigButtonContainer .btn.focus, .selectedBigButtonContainer .btn:focus, .selectedBigButtonContainer .btn {
