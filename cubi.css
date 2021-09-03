@@ -177,7 +177,7 @@ button, .button-label {
   transform: scale(1);
 }
 .bigButtonContainer:hover {
-  transform: scale(1.04) perspective(1px);
+  transform: scale(1.04);
   background-color: #E8EFF6 !important;
 }
 /*
