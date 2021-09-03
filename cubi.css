@@ -214,6 +214,8 @@ button, .button-label {
     background-color: var(--primaryWhite);
     box-shadow: rgba(0, 82, 155, 0.24) 0px 10px 16px 0px !important;
     border: 4px solid var(--primaryBlue) !important;
+    width: 200px;
+    height: 200px;
 }
 
 .selectedBigButtonContainer .btn.focus, .selectedBigButtonContainer .btn:focus, .selectedBigButtonContainer .btn {
