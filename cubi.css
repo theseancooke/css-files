@@ -209,15 +209,18 @@ button, .button-label {
     background-color: var(--primaryWhite) !important;
 }
 
+.selectedBigButtonContainer {
+    border-radius: 12px;
+    background-color: var(--primaryWhite);
+    box-shadow: rgba(0, 82, 155, 0.24) 0px 10px 16px 0px !important;
+    border: 4px solid var(--primaryBlue) !important;
+}
+
 .selectedBigButtonContainer .btn.focus, .selectedBigButtonContainer .btn:focus, .selectedBigButtonContainer .btn {
     border: 4px solid var(--primaryBlue) !important;
 }
 .selectedBigButtonContainer .btn {
     color: var(--primaryBlue);
-}
-.selectedBigButtonContainer {
-    box-shadow: rgba(0, 82, 155, 0.24) 0px 10px 16px 0px !important;
-    border: 4px solid var(--primaryBlue) !important;
 }
 /* Header Row -------------------------------- */
 .HeroRow .breadcrumbs {
