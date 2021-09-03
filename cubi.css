@@ -184,6 +184,7 @@ button, .button-label {
   -webkit-transform: scale(1.05); /* Safari 3-8 */
   transform: scale(1.05);
   background-color: #E8EFF6 !important;
+    transition: transform .2s;
 }
 .bigButtonContainer:active {
     border: 4px solid var(--primaryBlue) !important;
@@ -196,6 +197,7 @@ button, .button-label {
     transition: all .2s ease-in;
     box-shadow: rgba(0, 82, 155, 0.24) 0px 10px 16px 0px !important;
     background-color: var(--primaryWhite) !important;
+    transition: transform .2s;
 }
 
 .selectedBigButtonContainer {
