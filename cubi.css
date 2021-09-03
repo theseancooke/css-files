@@ -187,6 +187,13 @@ button, .button-label {
     transform: scale(1.04);
 }
 
+.bigButtonContainer .centerIcon {
+    color: var(--neutralDark) !important;
+}
+.selectedBigButtonContainer .centerIcon {
+    color: var(--primaryBlue) !important;
+}
+
 .selectedBigButtonContainer {
     border-radius: 12px;
     background-color: var(--primaryWhite);
