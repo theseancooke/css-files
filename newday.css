@@ -857,17 +857,6 @@ span.bold_blue {
     font-weight: bold;
 }
 
-.expertCTA button {
-    border-radius: 100px;
-    background-color: #005493;
-    border: 1px solid #005493;
-}
-
-.expertCTA button:hover {
-    background-color: #003A70;
-    border-color: #003A70;
-}
-
 .fixedCTA {
     background: #ffffff !important;
     border-radius: 10px;
