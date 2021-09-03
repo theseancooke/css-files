@@ -110,14 +110,14 @@ button, .button-label {
     box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important;*/
 }
 /* Start Big Buttons - UPDATED - Based on Container Component*/
-.lgButton {
+.lgButton .outer-container {
     border: 1px solid var(--neutralDark);
     -moz-transition: all .2s ease-in;
     -o-transition: all .2s ease-in;
     -webkit-transition: all .2s ease-in;
     transition: all .2s ease-in;
 }
-.lgButton:hover {
+.lgButton .outer-container:hover {
   -ms-transform: scale(1.05); /* IE 9 */
   -webkit-transform: scale(1.05); /* Safari 3-8 */
   transform: scale(1.05);
