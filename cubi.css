@@ -111,17 +111,17 @@ button, .button-label {
 }
 /* Start Big Buttons - UPDATED - Based on Container Component*/
 .lgButton .outer-container {
-    border: 1px solid var(--neutralDark);
-    -moz-transition: all .2s ease-in;
-    -o-transition: all .2s ease-in;
-    -webkit-transition: all .2s ease-in;
-    transition: all .2s ease-in;
+    border: 1px solid var(--neutralDark) !important;
+    -moz-transition: all .2s ease-in !important;
+    -o-transition: all .2s ease-in !important;
+    -webkit-transition: all .2s ease-in !important;
+    transition: all .2s ease-in !important;
 }
 .lgButton .outer-container:hover {
-  -ms-transform: scale(1.05); /* IE 9 */
-  -webkit-transform: scale(1.05); /* Safari 3-8 */
-  transform: scale(1.05);
-  background-color: #E8EFF6;
+  -ms-transform: scale(1.05) !important; /* IE 9 */
+  -webkit-transform: scale(1.05) !important; /* Safari 3-8 */
+  transform: scale(1.05) !important;
+  background-color: #E8EFF6 !important;
 }
 /* End Big Buttons*/
 
