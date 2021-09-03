@@ -173,11 +173,11 @@ button, .button-label {
   height: 200px;
   border-radius: 12px;
   border: 1px solid #767676;
-  transition: all 1s ease;
+  transition: all .4s ease;
   transform: scale(1);
 }
 .bigButtonContainer:hover {
-  transform: scale(1.05) perspective(1px);
+  transform: scale(1.04) perspective(1px);
   background-color: #E8EFF6 !important;
 }
 /*
