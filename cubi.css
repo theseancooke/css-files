@@ -180,6 +180,9 @@ button, .button-label {
   transform: scale(1.04);
   background-color: #E8EFF6 !important;
 }
+.bigButtonContainer:focus {
+  box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important;
+}
 .bigButtonContainer:active {
     border: 4px solid var(--primaryBlue) !important;
     box-shadow: rgba(0, 82, 155, 0.24) 0px 10px 16px 0px !important;
