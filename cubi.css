@@ -110,7 +110,7 @@ button, .button-label {
     box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important;*/
 }
 /* Start Big Buttons - UPDATED - Based on Container Component*/
-.lgButton-test {
+.lgButton-test .styled.outer-container {
     border: 1px solid var(--neutralDark) !important;
     background-color: red !imoportant;
 }
