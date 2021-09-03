@@ -53,7 +53,7 @@ button, .button-label {
     background-color: var(--primaryBlue) !important;
 }
 .blueButton .btn.focus, .blueButton .btn:focus {
-    box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important;
+    /* box-shadow: 0 0 0 2px var(--primaryWhite), 0 0 0 4px var(--primaryRed) !important; */
 }
 .blueButton .btn:not(:disabled):not(.disabled).active:focus, .blueButton .btn:not(:disabled):not(.disabled):active:focus, .blueButton .show>.btn.dropdown-toggle:focus {
     border: none !important;
