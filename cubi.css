@@ -196,9 +196,8 @@ button, .button-label {
   transform: scale(1.05);
   background-color: #E8EFF6 !important;
 }
-
 .bigButtonContainer:active {
-    border: 4px solid var(--primaryBlue);
+    border: 4px solid var(--primaryBlue) !important;
 }
 
 .selectedBigButtonContainer .btn.focus, .selectedBigButtonContainer .btn:focus, .selectedBigButtonContainer .btn {
