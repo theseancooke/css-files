@@ -127,7 +127,6 @@ button, .button-label {
 }
 .bigButton .btn, .bigButtonContainer .styled.outer-container, .selectedBigProductContainer .styled.outer-container, .bigProductContainer .styled.outer-container {
     background-color: var(--primaryWhite);
-    border: 1px solid var(--neutralDark) !important;
     color: var(--neutralDark);
     border-radius: 12px;
 }
