@@ -125,7 +125,7 @@ button, .button-label {
     box-shadow: rgba(0, 82, 155, 0.24) 0px 10px 16px 0px !important;
     border: 4px solid var(--primaryBlue);
 }
-.bigButton .btn, .bigButtonContainer .styled.outer-container, .bigProductContainer .styled.outer-container {
+.bigButton .btn, .bigButtonContainer .styled.outer-container, .selectedBigProductContainer .styled.outer-container {
     background-color: var(--primaryWhite);
     border: 1px solid var(--neutralDark) !important;
     color: var(--neutralDark);
