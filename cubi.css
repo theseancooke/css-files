@@ -184,11 +184,11 @@ button, .button-label {
   transition: all .4s ease;
   transform: scale(1);
 }
-.bigButtonContainer:hover {
+.bigButtonContainer:hover, .bigProductContainer:hover {
   transform: scale(1.04);
   background-color: #E8EFF6 !important;
 }
-.bigButtonContainer:active {
+.bigButtonContainer:active, .bigProductContainer:active {
     border: 4px solid var(--primaryBlue) !important;
     box-shadow: rgba(0, 82, 155, 0.24) 0px 10px 16px 0px !important;
     background-color: var(--primaryWhite) !important;
