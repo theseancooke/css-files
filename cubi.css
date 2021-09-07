@@ -177,6 +177,13 @@ button, .button-label {
   transition: all .4s ease;
   transform: scale(1);
 }
+.bigProductContainer {
+  background-color: var(--primaryWhite);
+  border-radius: 12px;
+  border: 1px solid #767676;
+  transition: all .4s ease;
+  transform: scale(1);
+}
 .bigButtonContainer:hover {
   transform: scale(1.04);
   background-color: #E8EFF6 !important;
@@ -202,6 +209,15 @@ button, .button-label {
     border: 4px solid var(--primaryBlue) !important;
     width: 200px;
     height: 200px;
+    transition: all .2s ease;
+    transform: scale(1);
+}
+
+.selectedBigProductContainer {
+    border-radius: 12px;
+    background-color: var(--primaryWhite);
+    box-shadow: rgba(0, 82, 155, 0.24) 0px 10px 16px 0px !important;
+    border: 4px solid var(--primaryBlue) !important;
     transition: all .2s ease;
     transform: scale(1);
 }
