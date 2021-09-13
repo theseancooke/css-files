@@ -253,7 +253,6 @@ html { font-size: 18px; !important }
     border-color: #005696;
 }*/
 .Wizard input[type="radio"]:checked + label {
-    background-color: #d3ebff;
     border-color: #005696;
 }
 .getStarted .custom-control-label {
