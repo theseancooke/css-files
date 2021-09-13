@@ -230,7 +230,8 @@ html { font-size: 18px; !important }
     max-width: 330px;
     min-width: 300px;
     background-color: rgb(255, 255, 255);
-    border: 5px solid #ddd;
+    border: 3px solid #ccc;
+    box-shadow: 1px 4px 5px 0 rgb(0 0 0 / 10%);
     border-radius: 50px;
     color: #182026;
     font-family: 'Roboto';
@@ -238,6 +239,10 @@ html { font-size: 18px; !important }
     font-size: 18px;
     font-weight: 700;
     text-align: center;
+}
+
+.getStarted .custom-control:hover label {
+    border: 3px solid #0378d5;
 }
 .custom-control:hover {
     background-color: #d3ebff;
