@@ -245,7 +245,6 @@ html { font-size: 18px; !important }
     border: 3px solid #0378d5;
 }
 .custom-control:hover {
-    background-color: #d3ebff;
     border-color: #005696;
 }
 /*.custom-control label:hover {
