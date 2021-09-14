@@ -187,7 +187,13 @@ button, .button-label {
   transition: all .4s ease;
   transform: scale(1);
 }
-
+.hover-interaction {
+    background-color: var(--primaryWhite);
+  border-radius: 12px;
+  border: 1px solid #767676;
+  transition: all .4s ease;
+  transform: scale(1);
+}
 .hover-interaction:hover {
     transform: scale(1.04);
     border: 4px solid var(--primaryBlue) !important;
