@@ -73,6 +73,10 @@ button, .button-label {
     border: none;
     color: var(--primaryBlue);
 }
+
+.whiteButton-border .btn {
+    border: 2px solid var(--primaryBlue);
+}
 .whiteButton-border .btn {
     border: 2px solid var(--primaryBlue) !important;
 }
