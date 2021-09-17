@@ -907,8 +907,12 @@ span.bold_blue {
 }
 
 /*SHARE BUTTON*/
+.share-button i {
+    color: #e0e0e0 !important;
+}
 .share-button .btn{
     background-color: #ffffff !important;
+    border-color: #ffffff !important;
 }
 .share-button:hover .btn {
     background-color: #E2F1FC !important;
