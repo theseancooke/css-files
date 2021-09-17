@@ -907,11 +907,11 @@ span.bold_blue {
 }
 
 /*SHARE BUTTON*/
-.share-button {
-    background-color: #ffffff;
+.share-button .btn{
+    background-color: #ffffff !important;
 }
-.share-button:hover {
-    background-color: #e0e0e0;
+.share-button:hover .btn {
+    background-color: #e0e0e0 !important;
 }
 .share-button .button-label{
     font-size: 0.77778rem;
