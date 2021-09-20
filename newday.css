@@ -966,3 +966,18 @@ span.bold_blue {
   justify-content: center;
     max-height: 260px !important;
 }
+
+/* MOBILE STYLES - NO MEDIA QUERIES */
+
+/* TYPOGRAPHY */
+.fjalla {
+    font-family: 'Fjalla One' !important;
+}
+
+/* HOME */
+.hero-heading-mobile {
+    font-size: 1.66667rem;
+}
+.hero-subheading-mobile {
+    font-size: 1.4rem;
+}
