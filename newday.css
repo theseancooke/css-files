@@ -971,7 +971,7 @@ span.bold_blue {
 
 /* TYPOGRAPHY */
 .fjalla {
-    font-family: 'Fjalla One' !important;
+    font-family: 'Fjalla One', sans-serif !important;
 }
 
 /* HOME */
