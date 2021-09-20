@@ -980,4 +980,5 @@ span.bold_blue {
 }
 .hero-subheading-mobile {
     font-size: 1.4rem;
+    text-transform: uppercase;
 }
