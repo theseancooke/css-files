@@ -9,9 +9,9 @@
 .main-content {
     background-color: #fff;
 }
-/*.Container, .Pie, .Bar, .Label, .label-container {
+.Container, .Pie, .Bar, .Label, .label-container {
       background-color: #ffffff00 !important;
-}*/
+}
 
 h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
     font-family: 'Open Sans', sans-serif;
