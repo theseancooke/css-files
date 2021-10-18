@@ -552,9 +552,9 @@ button, .button-label {
 /* @ MEDIA ---------------------------------------------------------------------- */
 
 @media only screen and (max-width: 1430px) {
- .Grid.Layout {
+ /*.Grid.Layout {
     max-width: 1100px;
-}
+}*/
 /* Buttons ----------------------------------- */
 .blueBtn .button-label {
     font-size: 14px !important;
