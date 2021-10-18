@@ -514,10 +514,6 @@ button, .button-label {
 .Signer_Hopper_Repeater .h20 {
     height: 24px !important;
 }
-
-.Signer_Hopper_Repeater .Label, .Signer_Hopper_Repeater .label-container {
-    background-color: transparent !important;
-}
     
 
 /* Account Activity -------------------------------- */
