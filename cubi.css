@@ -10,7 +10,7 @@
     background-color: #fff;
 }
 .Container, .Pie, .Bar, .Label, .label-container {
-      background-color: transparent;
+      background-color: transparent !important;
 }
 
 h1, h2, h3, h4, h5, h6, p, li, ol, ul, div {
@@ -509,6 +509,14 @@ button, .button-label {
     height: 24px !important;
     width: 24px !important;
     border-radius: 4px !important;
+}
+
+.Signer_Hopper_Repeater .h20 {
+    height: 24px !important;
+}
+
+.Signer_Hopper_Repeater .Label, .Signer_Hopper_Repeater .label-container {
+    background-color: transparent !important;
 }
     
 
