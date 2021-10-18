@@ -502,6 +502,16 @@ button, .button-label {
     text-align: center !important;
 }
 
+/* Additional Owners and Signers - Manual and Invitation ---------- */
+.signer_number {
+    background-color: #00529B !important;
+    color: #ffffff !important;
+    height: 24px !important;
+    width: 24px !important;
+    border-radius: 4px !important;
+}
+    
+
 /* Account Activity -------------------------------- */
 .question_box .toggle-container .outer-container {
     justify-content: center !important;
