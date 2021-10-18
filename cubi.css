@@ -580,9 +580,9 @@ button, .button-label {
     font-size: 14px;
     line-height: 20px;
 }
-.HeroRow .image {
+/*.HeroRow .image {
     justify-content: flex-start !important;
-}
+}*/
 
 /* Callout Row -------------------------------- */
     
