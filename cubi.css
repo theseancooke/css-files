@@ -39,7 +39,7 @@ a {
 }
 
 .blueBox .styled.outer-container {
-    background-color: var(--primaryBlue) !important;
+    background-color: rgba(210, 220, 230, .1) !important;
     border-radius: 12px;
 }
 
