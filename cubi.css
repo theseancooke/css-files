@@ -11,6 +11,23 @@
     margin-top: -4px;
 }
 
+.breadcrumbs {
+    color: var(--neutralDark);
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: -0.4px;
+    line-height: 1.667;
+    text-transform: uppercase;
+}
+
+.breadcrumbs a {
+    color: var(--primaryBlue);
+}
+
+.breadcrumbs i {
+    color: var(--neutralMedium);
+}
+
 /* End Updated Styling */
 
 .Grid.Layout {
