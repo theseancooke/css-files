@@ -3,7 +3,6 @@
 /* Start Updated Styling - To be removed */
 
 .landing-navbar {
-    max-height: 112px;
     border-bottom: 1px solid var(--neutralMedium);
     background-color: var(--primaryWhite);
 }
