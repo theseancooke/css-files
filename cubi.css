@@ -7,8 +7,8 @@
     background-color: var(--primaryWhite);
 }
 
-.landing-navbar .Button {
-    margin-top: -8px;
+.landing-navbar .Button, .landing-navbar .LinkWrapper {
+    margin-top: -4px;
 }
 
 /* End Updated Styling */
