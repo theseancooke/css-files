@@ -38,6 +38,11 @@ a {
     color: var(--primaryBlue);
 }
 
+.blueBox .styled.outer-container {
+    background-color: var(--primaryBlue) !important;
+    border-radius: 12px;
+}
+
 /* End Updated Styling */
 
 .Grid.Layout {
