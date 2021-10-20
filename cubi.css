@@ -7,6 +7,10 @@
     background-color: var(--primaryWhite);
 }
 
+.landing-navbar .Button {
+    margin-top: -8px;
+}
+
 /* End Updated Styling */
 
 .Grid.Layout {
