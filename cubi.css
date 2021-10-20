@@ -7,7 +7,7 @@
     background-color: var(--primaryWhite);
 }
 
-.landing-navbar .Button, .landing-navbar .LinkWrapper {
+.landing-navbar .Button {
     margin-top: -4px;
 }
 
