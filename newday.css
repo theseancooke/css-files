@@ -512,9 +512,8 @@ h1.postTitle {
     list-style: disc;
     padding-left: 20px;
 }
-.postText ul::before {
-  content: "• ";
-  color: lightblue;
+.postText ::marker {
+    color: #0378d5;
 }
 .postText p {
     margin-bottom: 1.5em;
