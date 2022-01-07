@@ -491,7 +491,7 @@ h1.postTitle {
 }
 .postText h4 {
     color: #005696;
-    font-size: 1.35em;
+    font-size: 1.3em;
     font-weight: 500;
     margin-bottom: 1.5rem;
 }
@@ -505,8 +505,8 @@ h1.postTitle {
 .postText h5 {
     color: #005696;
     font-size: 1.3em;
-    font-weight: 500;
-    margin-bottom: 1.5rem;
+    font-weight: 400;
+    margin-bottom: 1.2rem;
 }
 .postText ul {
     list-style: disc;
