@@ -511,7 +511,10 @@ h1.postTitle {
 .postText ul {
     list-style: disc;
     padding-left: 20px;
-    color: lightblue;
+}
+.postText ul::before {
+  content: "• ";
+  color: lightblue;
 }
 .postText p {
     margin-bottom: 1.5em;
