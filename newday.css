@@ -489,18 +489,28 @@ h1.postTitle {
 .capital {
     text-transform: capitalize;
 }
-.postText h3 {
+.postText h4 {
     color: #005696;
     font-size: 1.35em;
     font-weight: 500;
     margin-bottom: 1.5rem;
 }
-.postText h3:after {
+.postText h4:after {
     border-bottom: 1px solid lightgray;
     padding-bottom: 15px;
     content: '';
     display: block;
     width: 10%;
+}
+.postText h5 {
+    color: #005696;
+    font-size: 1.3em;
+    font-weight: 500;
+    margin-bottom: 1.5rem;
+}
+.postText ul {
+    list-style: disc;
+    padding-left: 20px;
 }
 .postText p {
     margin-bottom: 1.5em;
