@@ -494,6 +494,7 @@ h1.postTitle {
     font-size: 1.5em;
     font-weight: 500;
     margin-bottom: 0.8rem;
+    border-bottom: 1px solid gray;
 }
 .postText p {
     margin-bottom: 1.5em;
