@@ -491,15 +491,16 @@ h1.postTitle {
 }
 .postText h3 {
     color: #005696;
-    font-size: 1.4em;
-    font-weight: 400;
+    font-size: 1.35em;
+    font-weight: 500;
     margin-bottom: 1.5rem;
+    padding-bottom: 15px;
 }
 .postText h3:after {
     border-bottom: 1px solid lightgray;
     content: '';
     display: block;
-    width: 5%;
+    width: 10%;
 }
 .postText p {
     margin-bottom: 1.5em;
