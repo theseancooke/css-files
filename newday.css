@@ -489,7 +489,10 @@ h1.postTitle {
 .capital {
     text-transform: capitalize;
 }
-
+.postText h3 {
+    color: #005696;
+    font-size: 1.5em;
+}
 .postText p {
     margin-bottom: 1.5em;
 }
