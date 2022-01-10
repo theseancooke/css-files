@@ -526,6 +526,7 @@ h1.postTitle {
 .postText table {
     text-align: center;
     text-indent: initial;
+    white-space: nowrap;
 }
 .postText table td {
     width: 400px;
