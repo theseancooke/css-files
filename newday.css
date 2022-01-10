@@ -521,6 +521,15 @@ h1.postTitle {
     margin-bottom: 1.5em;
     margin-top: 1.5em;
 }
+.postText table {
+    border-color: grey;
+    text-align: center;
+    text-indent: initial;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+}
 .white .postCard .postImage {
     background-color: #fff;
     border: 2px solid #adadad;
