@@ -522,13 +522,15 @@ h1.postTitle {
     margin-top: 1.5em;
 }
 .postText table {
-    border-color: grey;
     text-align: center;
     text-indent: initial;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
+}
+.postText table td {
+    padding: 15px;
+    border: 1px solid #e0e0e0;
+}
+.postText table tr:nth-child(even) {
+    background-color: #f4f4f4;
 }
 .white .postCard .postImage {
     background-color: #fff;
