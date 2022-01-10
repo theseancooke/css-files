@@ -494,6 +494,7 @@ h1.postTitle {
     font-size: 1.3em;
     font-weight: 500;
     margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
 }
 .postText h4:after {
     border-bottom: 1px solid lightgray;
