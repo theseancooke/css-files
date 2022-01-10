@@ -514,6 +514,9 @@ h1.postTitle {
     padding-left: 20px;
     margin-top: 0px;
 }
+.postText ul p {
+    margin: 1em 0 !important;
+}
 .postText ul ::marker {
     color: #0378d5;
 }
