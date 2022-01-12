@@ -37,7 +37,7 @@
     src: url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Light.eot?#iefix) format("eot"), url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Light.woff2) format("woff2"), url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Light.woff) format("woff"), url(https://www.newdayusa.com/Content/fonts/GT-Walsheim-Pro-Light.ttf) format("truetype");
 }
 
-html { font-size: 18px; !important }
+html { font-size: 18px !important; }
 
 .Grid.Layout {
     background-color: #FFFFFF !important;
