@@ -523,19 +523,6 @@ h1.postTitle {
 .postText p {
     margin-bottom: 1.5em;
 }
-.postText table {
-    text-align: center;
-    text-indent: initial;
-    white-space: nowrap;
-}
-.postText table td {
-    width: 400px;
-    padding: 15px;
-    border: 1px solid #e0e0e0;
-}
-.postText table tr:nth-child(even) {
-    background-color: #f4f4f4;
-}
 .white .postCard .postImage {
     background-color: #fff;
     border: 2px solid #adadad;
